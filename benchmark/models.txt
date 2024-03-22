@@ -1,0 +1,16 @@
+BioMedTok/BPE-HF-NACHOS-FR-Morphemes
+BioMedTok/BPE-HF-PubMed-FR-Morphemes
+BioMedTok/BPE-HF-CC100-FR-Morphemes
+BioMedTok/BPE-HF-Wikipedia-FR-Morphemes
+BioMedTok/BPE-HF-NACHOS-FR
+BioMedTok/BPE-HF-PubMed-FR
+BioMedTok/BPE-HF-CC100-FR
+BioMedTok/BPE-HF-Wikipedia-FR
+BioMedTok/SentencePieceBPE-PubMed-FR-Morphemes
+BioMedTok/SentencePieceBPE-Wikipedia-FR-Morphemes
+BioMedTok/SentencePieceBPE-NACHOS-FR-Morphemes
+BioMedTok/SentencePieceBPE-CC100-FR-Morphemes
+BioMedTok/SentencePieceBPE-PubMed-FR
+BioMedTok/SentencePieceBPE-Wikipedia-FR
+BioMedTok/SentencePieceBPE-NACHOS-FR
+BioMedTok/SentencePieceBPE-CC100-FR
