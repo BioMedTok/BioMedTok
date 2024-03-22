@@ -1,0 +1,1026 @@
+{
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3519619445717281,
+        "doesnt_contains_oov": 0.5416666666666666
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9690983653901692,
+        "doesnt_contains_oov": 0.9596474953617811
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8386129453730851,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.845751439998677,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-nachos-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.2948827629285887,
+        "doesnt_contains_oov": 0.6
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9719286085600416,
+        "doesnt_contains_oov": 0.9647495361781077
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9701958066193034,
+        "doesnt_contains_oov": 0.9703153988868274
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8517776318674557,
+        "doesnt_contains_oov": 0.9817073170731707
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3351412349118771,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3543187515532648,
+        "doesnt_contains_oov": 0.5833333333333333
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8182844484192495,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8212275582547359,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.970296886732513,
+        "doesnt_contains_oov": 0.9661410018552875
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|cas|pos-pos": {
+        "contains_oov": 0.9713654479293017,
+        "doesnt_contains_oov": 0.9675324675324676
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8635466564383393,
+        "doesnt_contains_oov": 0.9642857142857142
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8251275805631626,
+        "doesnt_contains_oov": 0.9700929152148665
+    },
+    "biomedtok_bpe-hf-pubmed-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3468840236594529,
+        "doesnt_contains_oov": 0.475
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8459562807420702,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8346423582572147,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9713076878646104,
+        "doesnt_contains_oov": 0.9652133580705009
+    },
+    "biomedtok_bpe-hf-cc100-fr|cas|pos-pos": {
+        "contains_oov": 0.9707589672500434,
+        "doesnt_contains_oov": 0.9642857142857143
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9708600473632532,
+        "doesnt_contains_oov": 0.9619666048237477
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9707156472015249,
+        "doesnt_contains_oov": 0.9689239332096475
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.27796632619397116,
+        "doesnt_contains_oov": 0.5
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.30052610245801353,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|cas|pos-pos": {
+        "contains_oov": 0.9713076878646104,
+        "doesnt_contains_oov": 0.9679962894248608
+    },
+    "biomedtok_bpe-hf-cc100-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.33860196934577763,
+        "doesnt_contains_oov": 0.6249999999999999
+    },
+    "biomedtok_bpe-hf-nachos-fr|cas|pos-pos": {
+        "contains_oov": 0.9700369664414024,
+        "doesnt_contains_oov": 0.9619666048237476
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|cas|pos-pos": {
+        "contains_oov": 0.9708744873794259,
+        "doesnt_contains_oov": 0.9666048237476809
+    },
+    "biomedtok_bpe-hf-nachos-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8644211527890032,
+        "doesnt_contains_oov": 0.9523809523809523
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|cas|pos-pos": {
+        "contains_oov": 0.9693582856812799,
+        "doesnt_contains_oov": 0.9721706864564008
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.31329563450800846,
+        "doesnt_contains_oov": 0.5166666666666666
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|cas|pos-pos": {
+        "contains_oov": 0.970701207185352,
+        "doesnt_contains_oov": 0.962430426716141
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8486169396985987,
+        "doesnt_contains_oov": 0.9698025551684089
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3056191623080564,
+        "doesnt_contains_oov": 0.45
+    },
+    "biomedtok_bpe-hf-cc100-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.839589253865361,
+        "doesnt_contains_oov": 0.9817073170731707
+    },
+    "biomedtok_bpe-hf-pubmed-fr|cas|pos-pos": {
+        "contains_oov": 0.9706145670883151,
+        "doesnt_contains_oov": 0.9721706864564007
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.30222832132320937,
+        "doesnt_contains_oov": 0.85
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8277108565749125,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3385594860828647,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.2692340243970679,
+        "doesnt_contains_oov": 0.6416666666666666
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.29003950594859684,
+        "doesnt_contains_oov": 0.625
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3305390747463918,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|cas|pos-pos": {
+        "contains_oov": 0.9717553283659678,
+        "doesnt_contains_oov": 0.9652133580705009
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8520546446940966,
+        "doesnt_contains_oov": 0.9880952380952381
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|cas|ner_spec-ner_spec": {
+        "contains_oov": 0.3028864115633643,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.826754722846772,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-pubmed-fr|cas|ner_neg-ner_neg": {
+        "contains_oov": 0.8137263414916027,
+        "doesnt_contains_oov": 0.975609756097561
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|deft2019|ner-None": {
+        "contains_oov": 0.046157950907150476,
+        "doesnt_contains_oov": 0.006993006993006993
+    },
+    "biomedtok_bpe-hf-nachos-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.1061280383430332,
+        "doesnt_contains_oov": 0.1020408163265306
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.12296747967479675,
+        "doesnt_contains_oov": 0.1791044776119403
+    },
+    "biomedtok_bpe-hf-cc100-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.33910146538220076,
+        "doesnt_contains_oov": 0.4381170150987224
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|deft2019|ner-None": {
+        "contains_oov": 0.11338709677419355,
+        "doesnt_contains_oov": 0.17753623188405795
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|deft2019|ner-None": {
+        "contains_oov": 0.0,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|deft2019|ner-None": {
+        "contains_oov": 0.233678694351972,
+        "doesnt_contains_oov": 0.28597497393117827
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|quaero|ner-medline": {
+        "contains_oov": 0.5402486029404867,
+        "doesnt_contains_oov": 0.6145264096576374
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5634302154111656,
+        "doesnt_contains_oov": 0.6203692392768153
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6378200611846743,
+        "doesnt_contains_oov": 0.6132664437012263
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5599337579599808,
+        "doesnt_contains_oov": 0.6272456393761833
+    },
+    "biomedtok_bpe-hf-pubmed-fr|quaero|ner-medline": {
+        "contains_oov": 0.5468888464682877,
+        "doesnt_contains_oov": 0.6170824646823367
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6170396254818089,
+        "doesnt_contains_oov": 0.6297163408200408
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|quaero|ner-emea": {
+        "contains_oov": 0.6282977643157328,
+        "doesnt_contains_oov": 0.577824136647666
+    },
+    "biomedtok_bpe-hf-nachos-fr|quaero|ner-emea": {
+        "contains_oov": 0.6586830755621035,
+        "doesnt_contains_oov": 0.525793047532178
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.634116173485802,
+        "doesnt_contains_oov": 0.6051533279947242
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|quaero|ner-emea": {
+        "contains_oov": 0.6254368148289489,
+        "doesnt_contains_oov": 0.6501806001806002
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5395310855611903,
+        "doesnt_contains_oov": 0.6315019379403979
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6360373804481825,
+        "doesnt_contains_oov": 0.6093850685814232
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|quaero|ner-emea": {
+        "contains_oov": 0.6284678211795642,
+        "doesnt_contains_oov": 0.6262568277493651
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5330224878199986,
+        "doesnt_contains_oov": 0.6038888083969219
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6501061823262118,
+        "doesnt_contains_oov": 0.506367016184688
+    },
+    "biomedtok_bpe-hf-nachos-fr|quaero|ner-medline": {
+        "contains_oov": 0.5720396283774221,
+        "doesnt_contains_oov": 0.6145104476496369
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|quaero|ner-medline": {
+        "contains_oov": 0.5632541788228005,
+        "doesnt_contains_oov": 0.6173744249756644
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6224518014456473,
+        "doesnt_contains_oov": 0.4748685286487706
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6458274427989116,
+        "doesnt_contains_oov": 0.5874489037532515
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|quaero|ner-medline": {
+        "contains_oov": 0.5771064256757424,
+        "doesnt_contains_oov": 0.6200712101521818
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|quaero|ner-medline": {
+        "contains_oov": 0.5695723614237675,
+        "doesnt_contains_oov": 0.6234515540803572
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|quaero|ner-medline": {
+        "contains_oov": 0.5666125632139237,
+        "doesnt_contains_oov": 0.6284365392853062
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|quaero|ner-emea": {
+        "contains_oov": 0.6308229895322548,
+        "doesnt_contains_oov": 0.6102920391358715
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5576404556175361,
+        "doesnt_contains_oov": 0.623495627564397
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5559732921307504,
+        "doesnt_contains_oov": 0.6064094107863416
+    },
+    "biomedtok_bpe-hf-cc100-fr|quaero|ner-medline": {
+        "contains_oov": 0.5716034790059266,
+        "doesnt_contains_oov": 0.635499485412121
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|quaero|ner-emea": {
+        "contains_oov": 0.6363844380373472,
+        "doesnt_contains_oov": 0.4298612813825795
+    },
+    "biomedtok_bpe-hf-pubmed-fr|quaero|ner-emea": {
+        "contains_oov": 0.638332946996531,
+        "doesnt_contains_oov": 0.6545354214841286
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5618259727614137,
+        "doesnt_contains_oov": 0.6283092333084916
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|quaero|ner-medline": {
+        "contains_oov": 0.5713371565551555,
+        "doesnt_contains_oov": 0.6124033276001002
+    },
+    "biomedtok_bpe-hf-cc100-fr|quaero|ner-emea": {
+        "contains_oov": 0.6221382136558363,
+        "doesnt_contains_oov": 0.5580631174381175
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|quaero|ner-emea": {
+        "contains_oov": 0.6567510803927565,
+        "doesnt_contains_oov": 0.5848687544339718
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5736543587900217,
+        "doesnt_contains_oov": 0.7
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.98318630240941,
+        "doesnt_contains_oov": 0.990579044117647
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9826013406690697,
+        "doesnt_contains_oov": 0.988970588235294
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6347882907443047,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8259614870968428,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.816073905521874,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5769026845147596,
+        "doesnt_contains_oov": 0.3680555555555556
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.7962078846088618,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9831309681907292,
+        "doesnt_contains_oov": 0.98828125
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8147457826643085,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-nachos-fr|essai|pos-pos": {
+        "contains_oov": 0.9837396445962183,
+        "doesnt_contains_oov": 0.9887408088235294
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6049667598470029,
+        "doesnt_contains_oov": 0.9375
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|essai|pos-pos": {
+        "contains_oov": 0.9838186934800479,
+        "doesnt_contains_oov": 0.9885110294117647
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.634548132836763,
+        "doesnt_contains_oov": 0.8318181818181818
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8307643798619218,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9834234490608992,
+        "doesnt_contains_oov": 0.9894301470588236
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.613073345478148,
+        "doesnt_contains_oov": 0.8472222222222222
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9826092455574528,
+        "doesnt_contains_oov": 0.9889705882352942
+    },
+    "biomedtok_bpe-hf-pubmed-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.7922103240233247,
+        "doesnt_contains_oov": 0.8500000000000001
+    },
+    "biomedtok_bpe-hf-cc100-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8208447964850458,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|essai|pos-pos": {
+        "contains_oov": 0.9828463922089421,
+        "doesnt_contains_oov": 0.9875919117647058
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8169356529091145,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5571825827435828,
+        "doesnt_contains_oov": 0.9375
+    },
+    "biomedtok_bpe-hf-nachos-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6003502438987365,
+        "doesnt_contains_oov": 0.8333333333333333
+    },
+    "biomedtok_bpe-hf-cc100-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5762466216749811,
+        "doesnt_contains_oov": 0.7250000000000001
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|essai|pos-pos": {
+        "contains_oov": 0.9830123948649845,
+        "doesnt_contains_oov": 0.9901194852941176
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|essai|pos-pos": {
+        "contains_oov": 0.9830993486371972,
+        "doesnt_contains_oov": 0.9901194852941176
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6117596961638443,
+        "doesnt_contains_oov": 0.761904761904762
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6106241590072259,
+        "doesnt_contains_oov": 0.8444444444444444
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|essai|pos-pos": {
+        "contains_oov": 0.9834155441725163,
+        "doesnt_contains_oov": 0.9871323529411765
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6393836696090794,
+        "doesnt_contains_oov": 0.4107142857142858
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8211069754917486,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9826645797761335,
+        "doesnt_contains_oov": 0.9901194852941176
+    },
+    "biomedtok_bpe-hf-nachos-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8290393490733041,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8199439201857891,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8116514738249406,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6080849372508588,
+        "doesnt_contains_oov": 0.9375
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9833839246189844,
+        "doesnt_contains_oov": 0.9901194852941176
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8307193768267583,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.800879185761288,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5934069575334588,
+        "doesnt_contains_oov": 0.6785714285714286
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.6422712122263421,
+        "doesnt_contains_oov": 0.8333333333333333
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|essai|pos-pos": {
+        "contains_oov": 0.9832258268513248,
+        "doesnt_contains_oov": 0.988970588235294
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|essai|ner_spec-ner_spec": {
+        "contains_oov": 0.5618474917127725,
+        "doesnt_contains_oov": 0.6722222222222223
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8223547446041697,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-cc100-fr|essai|pos-pos": {
+        "contains_oov": 0.9835499272750269,
+        "doesnt_contains_oov": 0.9885110294117647
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|essai|ner_neg-ner_neg": {
+        "contains_oov": 0.8216739382655893,
+        "doesnt_contains_oov": 1.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr|essai|pos-pos": {
+        "contains_oov": 0.9831467779674952,
+        "doesnt_contains_oov": 0.9896599264705883
+    },
+    "biomedtok_bpe-hf-nachos-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5238980716253443,
+        "doesnt_contains_oov": 0.3333333333333333
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6595456093873355,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5361692458053859,
+        "doesnt_contains_oov": 0.3333333333333333
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.520639272616495,
+        "doesnt_contains_oov": 0.45833333333333326
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6065387422605168,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5161046525917369,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6248137108792846,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5193453971611655,
+        "doesnt_contains_oov": 0.25
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6365225579880484,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.41671838341246237,
+        "doesnt_contains_oov": 0.42155067155067155
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5342218375807571,
+        "doesnt_contains_oov": 0.625
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4357177109974424,
+        "doesnt_contains_oov": 0.3551587301587302
+    },
+    "biomedtok_bpe-hf-cc100-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5611013316604155,
+        "doesnt_contains_oov": 0.8333333333333333
+    },
+    "biomedtok_bpe-hf-nachos-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.43796150006097195,
+        "doesnt_contains_oov": 0.3471509971509972
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.47737078499621477,
+        "doesnt_contains_oov": 0.4248768472906404
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6525253141806887,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4462972334682861,
+        "doesnt_contains_oov": 0.41128078817733993
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.46515875524647454,
+        "doesnt_contains_oov": 0.41215880893300255
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5409664106347875,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.533679344298695,
+        "doesnt_contains_oov": 0.5
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4889739457426807,
+        "doesnt_contains_oov": 0.4194444444444445
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.518810538472503,
+        "doesnt_contains_oov": 0.8333333333333333
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4013169446883231,
+        "doesnt_contains_oov": 0.3844506068644
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6736823909380434,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6145417102807992,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.5831156732742823,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5677643581578139,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.44652018910330926,
+        "doesnt_contains_oov": 0.34550264550264553
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.41876341632439196,
+        "doesnt_contains_oov": 0.42974672713271156
+    },
+    "biomedtok_bpe-hf-pubmed-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.38832570252083665,
+        "doesnt_contains_oov": 0.4038000230653904
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6496918923275307,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6443394374966163,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-cc100-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6987762682101225,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6101521049238856,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5726303052225439,
+        "doesnt_contains_oov": 0.7499999999999999
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.538485779129847,
+        "doesnt_contains_oov": 0.41666666666666663
+    },
+    "biomedtok_bpe-hf-nachos-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.613825678162137,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.6914850897134361,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5219493736328101,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.40890622532096843,
+        "doesnt_contains_oov": 0.31125356125356124
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5050077041602465,
+        "doesnt_contains_oov": 0.41666666666666663
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4081313128679519,
+        "doesnt_contains_oov": 0.38159340659340657
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|mantragsc|fr_patents-fr_patents": {
+        "contains_oov": 0.5176599756271413,
+        "doesnt_contains_oov": 0.6666666666666666
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.4379390776651051,
+        "doesnt_contains_oov": 0.4109879584017515
+    },
+    "biomedtok_bpe-hf-cc100-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.46224578238662745,
+        "doesnt_contains_oov": 0.38733766233766237
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|mantragsc|fr_medline-fr_medline": {
+        "contains_oov": 0.3587947689024739,
+        "doesnt_contains_oov": 0.3774685459468068
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.5720750488506374,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-pubmed-fr|mantragsc|fr_emea-fr_emea": {
+        "contains_oov": 0.5846719395770452,
+        "doesnt_contains_oov": 0.0
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8236010098882601,
+        "doesnt_contains_oov": 0.7857246376811594
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5170472577021417,
+        "doesnt_contains_oov": 0.32167832167832167
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8135089899112676,
+        "doesnt_contains_oov": 0.7966666666666666
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5137796994999332,
+        "doesnt_contains_oov": 0.32692307692307687
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5219297758451348,
+        "doesnt_contains_oov": 0.4606643356643356
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5380496322972902,
+        "doesnt_contains_oov": 0.5066600066600067
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5248560791177548,
+        "doesnt_contains_oov": 0.4743589743589744
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.531405160361612,
+        "doesnt_contains_oov": 0.6428571428571428
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8066285566295885,
+        "doesnt_contains_oov": 0.7736482720178373
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5338878508843742,
+        "doesnt_contains_oov": 0.6359890109890111
+    },
+    "biomedtok_bpe-hf-cc100-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8181621588691922,
+        "doesnt_contains_oov": 0.825
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8164228566568765,
+        "doesnt_contains_oov": 0.8012820512820512
+    },
+    "biomedtok_bpe-hf-cc100-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5262619334611568,
+        "doesnt_contains_oov": 0.6615384615384614
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8031724062605291,
+        "doesnt_contains_oov": 0.7587121212121213
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5423929961733635,
+        "doesnt_contains_oov": 0.42124542124542125
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8155616124535211,
+        "doesnt_contains_oov": 0.7431521739130434
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8211062690540569,
+        "doesnt_contains_oov": 0.7871376811594203
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8261671102225168,
+        "doesnt_contains_oov": 0.7558333333333334
+    },
+    "biomedtok_bpe-hf-pubmed-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5240111989133077,
+        "doesnt_contains_oov": 0.42549117549117543
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5205342601281937,
+        "doesnt_contains_oov": 0.5274725274725275
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.544135697580746,
+        "doesnt_contains_oov": 0.46441058941058944
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.5295520563911282,
+        "doesnt_contains_oov": 0.5483266733266733
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8045055548017275,
+        "doesnt_contains_oov": 0.8285309617918313
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|e3c|ner-French_clinical": {
+        "contains_oov": 0.49844771671819527,
+        "doesnt_contains_oov": 0.3068181818181818
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.8169556284790421,
+        "doesnt_contains_oov": 0.8041666666666667
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.821526870993341,
+        "doesnt_contains_oov": 0.7714855072463769
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|e3c|ner-French_temporal": {
+        "contains_oov": 0.817133668262993,
+        "doesnt_contains_oov": 0.7796376811594202
+    },
+    "biomedtok_bpe-hf-nachos-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5418096446333984,
+        "doesnt_contains_oov": 0.548076923076923
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|e3c|ner-French_clinical": {
+        "contains_oov": 0.5117365689815008,
+        "doesnt_contains_oov": 0.4391025641025641
+    },
+    "biomedtok_bpe-hf-pubmed-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8088943000616237,
+        "doesnt_contains_oov": 0.8247630992196209
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8027228033160498,
+        "doesnt_contains_oov": 0.8251864801864801
+    },
+    "biomedtok_bpe-hf-nachos-fr|e3c|ner-French_temporal": {
+        "contains_oov": 0.8205064840601808,
+        "doesnt_contains_oov": 0.7798076923076924
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|deft2021|ner-ner": {
+        "contains_oov": 0.5945633338615759,
+        "doesnt_contains_oov": 0.4863303256804161
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.5799282236102038,
+        "doesnt_contains_oov": 0.4659901896221273
+    },
+    "biomedtok_bpe-hf-cc100-fr|deft2021|ner-ner": {
+        "contains_oov": 0.5955211636492128,
+        "doesnt_contains_oov": 0.47805224017455805
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|deft2021|ner-ner": {
+        "contains_oov": 0.5938338687809422,
+        "doesnt_contains_oov": 0.4734466374269006
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.6085597897967256,
+        "doesnt_contains_oov": 0.5090410336319958
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.588694289152301,
+        "doesnt_contains_oov": 0.48229399392255035
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.5976278858458332,
+        "doesnt_contains_oov": 0.4694721944721944
+    },
+    "biomedtok_bpe-hf-pubmed-fr|deft2021|ner-ner": {
+        "contains_oov": 0.5815032780542657,
+        "doesnt_contains_oov": 0.5124327204096439
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|deft2021|ner-ner": {
+        "contains_oov": 0.6141628210589392,
+        "doesnt_contains_oov": 0.48880309699637425
+    },
+    "biomedtok_bpe-hf-nachos-fr|deft2021|ner-ner": {
+        "contains_oov": 0.6048398748351195,
+        "doesnt_contains_oov": 0.47938073660973624
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.6040669224861084,
+        "doesnt_contains_oov": 0.49462170984677545
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.594245312531084,
+        "doesnt_contains_oov": 0.47660961701800963
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.575871325130479,
+        "doesnt_contains_oov": 0.5194098179812466
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|deft2021|ner-ner": {
+        "contains_oov": 0.5963415931794127,
+        "doesnt_contains_oov": 0.44953177586648035
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|deft2021|ner-ner": {
+        "contains_oov": 0.5713983414507597,
+        "doesnt_contains_oov": 0.46644833012204756
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|deft2021|ner-ner": {
+        "contains_oov": 0.6022361353966393,
+        "doesnt_contains_oov": 0.479869536224402
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9604764139181188,
+        "doesnt_contains_oov": 0.9512598102031602
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9638144467493583,
+        "doesnt_contains_oov": 0.9521614272819017
+    },
+    "biomedtok_bpe-hf-nachos-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9639187936436338,
+        "doesnt_contains_oov": 0.9447470136467657
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9629547140991916,
+        "doesnt_contains_oov": 0.9529690057076893
+    },
+    "biomedtok_bpe-hf-wikipedia-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9635805102156718,
+        "doesnt_contains_oov": 0.9489650510543507
+    },
+    "biomedtok_bpe-hf-pubmed-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.962746880542174,
+        "doesnt_contains_oov": 0.9450331878325067
+    },
+    "biomedtok_bpe-hf-pubmed-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9611215055332675,
+        "doesnt_contains_oov": 0.9463983845919903
+    },
+    "biomedtok_sentencepiecebpe-cc100-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9615842218186631,
+        "doesnt_contains_oov": 0.9523945104188549
+    },
+    "biomedtok_bpe-hf-nachos-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.959866613846532,
+        "doesnt_contains_oov": 0.9502827737736061
+    },
+    "biomedtok_bpe-hf-cc100-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9577142358343822,
+        "doesnt_contains_oov": 0.944272117588483
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.964971612867249,
+        "doesnt_contains_oov": 0.9528317272345559
+    },
+    "biomedtok_sentencepiecebpe-nachos-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9631508006958576,
+        "doesnt_contains_oov": 0.9489937016181824
+    },
+    "biomedtok_bpe-hf-cc100-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9628556204568706,
+        "doesnt_contains_oov": 0.9515334796576285
+    },
+    "biomedtok_bpe-hf-wikipedia-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9603309215341229,
+        "doesnt_contains_oov": 0.9499945356548523
+    },
+    "biomedtok_sentencepiecebpe-wikipedia-fr-morphemes|pxcorpus|ner-None": {
+        "contains_oov": 0.9621782302042527,
+        "doesnt_contains_oov": 0.9496818469896685
+    },
+    "biomedtok_sentencepiecebpe-pubmed-fr|pxcorpus|ner-None": {
+        "contains_oov": 0.9619151929304547,
+        "doesnt_contains_oov": 0.9437780261646795
+    }
+}

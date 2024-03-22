@@ -1,0 +1,1538 @@
+{
+    "sentencepiece|wiki|contains_morphemes|cas|pos": {
+        "perf": 0.9714177683172753,
+        "subwords": 1.573215138392778
+    },
+    "sentencepiece|wiki|contains_morphemes|cas|ner-spec": {
+        "perf": 0.2872416759073861,
+        "subwords": 1.573215138392778
+    },
+    "sentencepiece|wiki|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8416397077805539,
+        "subwords": 1.573215138392778
+    },
+    "sentencepiece|wiki|contains_morphemes|cas|cls": {
+        "perf": 0.9410564362841836,
+        "subwords": 1.573215138392778
+    },
+    "sentencepiece|wiki|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9606116759436729,
+        "subwords": 1.8165638086356497
+    },
+    "sentencepiece|wiki|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9366147371409412,
+        "subwords": 1.8165638086356497
+    },
+    "sentencepiece|wiki|contains_morphemes|deft2020|cls": {
+        "perf": 0.6629914168166928,
+        "subwords": 1.3681923088441321
+    },
+    "sentencepiece|wiki|contains_morphemes|deft2020|regr": {
+        "perf": 0.672873243689537,
+        "subwords": 1.4927031675977183
+    },
+    "sentencepiece|wiki|contains_morphemes|morfitt|cls": {
+        "perf": 0.6747978678929852,
+        "subwords": 1.5689124972245432
+    },
+    "sentencepiece|wiki|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8110776247171562,
+        "subwords": 1.5544845601675128
+    },
+    "sentencepiece|wiki|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5246245656303679,
+        "subwords": 1.561485853953666
+    },
+    "sentencepiece|wiki|contains_morphemes|clister|regr": {
+        "perf": 0.6049920618534088,
+        "subwords": 1.7704869578645763
+    },
+    "sentencepiece|wiki|contains_morphemes|deft2021|ner": {
+        "perf": 0.5989805960307868,
+        "subwords": 1.5613269893464246
+    },
+    "sentencepiece|wiki|contains_morphemes|deft2021|cls": {
+        "perf": 0.31884978797896063,
+        "subwords": 1.7383874217592927
+    },
+    "sentencepiece|wiki|contains_morphemes|essai|ner-neg": {
+        "perf": 0.8423820029499527,
+        "subwords": 1.510410186667107
+    },
+    "sentencepiece|wiki|contains_morphemes|essai|pos": {
+        "perf": 0.9831570581402458,
+        "subwords": 1.510410186667107
+    },
+    "sentencepiece|wiki|contains_morphemes|essai|ner-spec": {
+        "perf": 0.6197368932461285,
+        "subwords": 1.5176124014651033
+    },
+    "sentencepiece|wiki|contains_morphemes|essai|cls": {
+        "perf": 0.9703657847603933,
+        "subwords": 1.520772990964865
+    },
+    "sentencepiece|wiki|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6308792126317831,
+        "subwords": 1.5578932141134794
+    },
+    "sentencepiece|wiki|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5583054822228565,
+        "subwords": 1.8851368883502653
+    },
+    "sentencepiece|wiki|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.5953432647176089,
+        "subwords": 1.5523427102238352
+    },
+    "sentencepiece|wiki|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.39862341858867073,
+        "subwords": 2.2211309523809524
+    },
+    "sentencepiece|wiki|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.4804043643026694,
+        "subwords": 1.6020680298966306
+    },
+    "sentencepiece|wiki|contains_morphemes|diamed|cls": {
+        "perf": 0.5624516674091898,
+        "subwords": 1.702432813116573
+    },
+    "bpe|cc100|contains_morphemes|cas|cls": {
+        "perf": 0.9532488804649029,
+        "subwords": 1.4895534885185406
+    },
+    "bpe|cc100|contains_morphemes|cas|ner-spec": {
+        "perf": 0.3200078882127564,
+        "subwords": 1.4895534885185406
+    },
+    "bpe|cc100|contains_morphemes|cas|pos": {
+        "perf": 0.9695552319067892,
+        "subwords": 1.4895534885185406
+    },
+    "bpe|cc100|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8422981215431102,
+        "subwords": 1.4895534885185406
+    },
+    "bpe|cc100|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9458196970007956,
+        "subwords": 1.7182112709444233
+    },
+    "bpe|cc100|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9598696817129981,
+        "subwords": 1.7182112709444233
+    },
+    "bpe|cc100|contains_morphemes|deft2020|regr": {
+        "perf": 0.6712434142827988,
+        "subwords": 1.449017452024607
+    },
+    "bpe|cc100|contains_morphemes|deft2020|cls": {
+        "perf": 0.7628461530844896,
+        "subwords": 1.3382232176577817
+    },
+    "bpe|cc100|contains_morphemes|morfitt|cls": {
+        "perf": 0.6703649485745168,
+        "subwords": 1.4989514493765752
+    },
+    "bpe|cc100|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5133421715324696,
+        "subwords": 1.4799577369587715
+    },
+    "bpe|cc100|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8121839356232698,
+        "subwords": 1.4754514280133868
+    },
+    "bpe|cc100|contains_morphemes|clister|regr": {
+        "perf": 0.6340033113956451,
+        "subwords": 1.7214683824831072
+    },
+    "bpe|cc100|contains_morphemes|deft2021|cls": {
+        "perf": 0.33943828002802634,
+        "subwords": 1.697492434874222
+    },
+    "bpe|cc100|contains_morphemes|deft2021|ner": {
+        "perf": 0.5919612957450903,
+        "subwords": 1.4884680109183328
+    },
+    "bpe|cc100|contains_morphemes|essai|pos": {
+        "perf": 0.9837684171914165,
+        "subwords": 1.4199679580100077
+    },
+    "bpe|cc100|contains_morphemes|essai|ner-neg": {
+        "perf": 0.8317795047200549,
+        "subwords": 1.4199679580100077
+    },
+    "bpe|cc100|contains_morphemes|essai|cls": {
+        "perf": 0.9670716823086644,
+        "subwords": 1.4319434585833024
+    },
+    "bpe|cc100|contains_morphemes|essai|ner-spec": {
+        "perf": 0.6146213018233012,
+        "subwords": 1.4260439959749056
+    },
+    "bpe|cc100|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5500399715755575,
+        "subwords": 1.7760008361490878
+    },
+    "bpe|cc100|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6268179986546328,
+        "subwords": 1.4620592587472014
+    },
+    "bpe|cc100|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5392739541160594,
+        "subwords": 1.6258683956341158
+    },
+    "bpe|cc100|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6298247261825092,
+        "subwords": 1.5072372382104686
+    },
+    "bpe|cc100|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.4115839238921375,
+        "subwords": 2.1263690476190478
+    },
+    "bpe|cc100|contains_morphemes|diamed|cls": {
+        "perf": 0.39548394706918377,
+        "subwords": 1.6141831755590503
+    },
+    "bpe|nachos|contains_morphemes|cas|cls": {
+        "perf": 0.9491957984838035,
+        "subwords": 1.3768962222003653
+    },
+    "bpe|nachos|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8329645948259206,
+        "subwords": 1.3768962222003653
+    },
+    "bpe|nachos|contains_morphemes|cas|ner-spec": {
+        "perf": 0.30560046545320035,
+        "subwords": 1.3768962222003653
+    },
+    "bpe|nachos|contains_morphemes|cas|pos": {
+        "perf": 0.9687850100829039,
+        "subwords": 1.3768962222003653
+    },
+    "bpe|nachos|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9422027472038005,
+        "subwords": 1.6231444228518832
+    },
+    "bpe|nachos|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9584698202693341,
+        "subwords": 1.6231444228518832
+    },
+    "bpe|nachos|contains_morphemes|deft2020|regr": {
+        "perf": 0.7088830024003983,
+        "subwords": 1.4471412842516482
+    },
+    "bpe|nachos|contains_morphemes|deft2020|cls": {
+        "perf": 0.8592845301384258,
+        "subwords": 1.257288568170162
+    },
+    "bpe|nachos|contains_morphemes|morfitt|cls": {
+        "perf": 0.6796544399263501,
+        "subwords": 1.4373605171202695
+    },
+    "bpe|nachos|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5305292636589883,
+        "subwords": 1.3521159534997949
+    },
+    "bpe|nachos|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8116294373833662,
+        "subwords": 1.3483239869135686
+    },
+    "bpe|nachos|contains_morphemes|clister|regr": {
+        "perf": 0.6261066049337387,
+        "subwords": 1.5874527441419881
+    },
+    "bpe|nachos|contains_morphemes|deft2021|ner": {
+        "perf": 0.5896299682901476,
+        "subwords": 1.3707856041773343
+    },
+    "bpe|nachos|contains_morphemes|deft2021|cls": {
+        "perf": 0.3451082015940943,
+        "subwords": 1.565892296923179
+    },
+    "bpe|nachos|contains_morphemes|essai|ner-spec": {
+        "perf": 0.609346612286142,
+        "subwords": 1.3370507632125799
+    },
+    "bpe|nachos|contains_morphemes|essai|pos": {
+        "perf": 0.9828743045790792,
+        "subwords": 1.3329477079457002
+    },
+    "bpe|nachos|contains_morphemes|essai|ner-neg": {
+        "perf": 0.8342328947124898,
+        "subwords": 1.3329477079457002
+    },
+    "bpe|nachos|contains_morphemes|essai|cls": {
+        "perf": 0.9706424734449683,
+        "subwords": 1.3389233159075031
+    },
+    "bpe|nachos|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5617960182583085,
+        "subwords": 1.6252491596227763
+    },
+    "bpe|nachos|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6511862063801608,
+        "subwords": 1.337121869446561
+    },
+    "bpe|nachos|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6391696152145069,
+        "subwords": 1.3966249075754522
+    },
+    "bpe|nachos|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.42941820821077786,
+        "subwords": 2.007172619047619
+    },
+    "bpe|nachos|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5331692891251059,
+        "subwords": 1.5899489746224025
+    },
+    "bpe|nachos|contains_morphemes|diamed|cls": {
+        "perf": 0.5732609854295041,
+        "subwords": 1.4762697386119332
+    },
+    "sentencepiece|pubmed|contains_morphemes|cas|pos": {
+        "perf": 0.9686729778176115,
+        "subwords": 2.1472300596997163
+    },
+    "sentencepiece|pubmed|contains_morphemes|cas|ner-spec": {
+        "perf": 0.22178746235350008,
+        "subwords": 2.1472300596997163
+    },
+    "sentencepiece|pubmed|contains_morphemes|cas|ner-neg": {
+        "perf": 0.838730323650628,
+        "subwords": 2.1472300596997163
+    },
+    "sentencepiece|pubmed|contains_morphemes|cas|cls": {
+        "perf": 0.935686342490281,
+        "subwords": 2.1472300596997163
+    },
+    "sentencepiece|pubmed|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9607192236189461,
+        "subwords": 2.302446713813316
+    },
+    "sentencepiece|pubmed|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9408799291071526,
+        "subwords": 2.302446713813316
+    },
+    "sentencepiece|pubmed|contains_morphemes|deft2020|cls": {
+        "perf": 0.6669792126841457,
+        "subwords": 2.0392594426038726
+    },
+    "sentencepiece|pubmed|contains_morphemes|deft2020|regr": {
+        "perf": 0.6286517754197121,
+        "subwords": 2.22844096240272
+    },
+    "sentencepiece|pubmed|contains_morphemes|morfitt|cls": {
+        "perf": 0.6619416007280043,
+        "subwords": 2.3331056127790166
+    },
+    "sentencepiece|pubmed|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5107624358792356,
+        "subwords": 2.1847952404307467
+    },
+    "sentencepiece|pubmed|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.7980406451947077,
+        "subwords": 2.176127293080864
+    },
+    "sentencepiece|pubmed|contains_morphemes|clister|regr": {
+        "perf": 0.6235468834638596,
+        "subwords": 2.492621627573071
+    },
+    "sentencepiece|pubmed|contains_morphemes|deft2021|cls": {
+        "perf": 0.33134898582094974,
+        "subwords": 2.4562434644824864
+    },
+    "sentencepiece|pubmed|contains_morphemes|deft2021|ner": {
+        "perf": 0.5658035609724908,
+        "subwords": 2.1545070785724825
+    },
+    "sentencepiece|pubmed|contains_morphemes|essai|ner-neg": {
+        "perf": 0.8106111090378885,
+        "subwords": 2.152851087630509
+    },
+    "sentencepiece|pubmed|contains_morphemes|essai|cls": {
+        "perf": 0.9715948768534091,
+        "subwords": 2.163234628426379
+    },
+    "sentencepiece|pubmed|contains_morphemes|essai|pos": {
+        "perf": 0.9821177477532556,
+        "subwords": 2.152851087630509
+    },
+    "sentencepiece|pubmed|contains_morphemes|essai|ner-spec": {
+        "perf": 0.5568351103428922,
+        "subwords": 2.158874920975658
+    },
+    "sentencepiece|pubmed|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6378781398514347,
+        "subwords": 2.044328450291366
+    },
+    "sentencepiece|pubmed|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5289093409316391,
+        "subwords": 2.349636015648085
+    },
+    "sentencepiece|pubmed|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.378361287834972,
+        "subwords": 2.778509615384616
+    },
+    "sentencepiece|pubmed|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.4943910514754636,
+        "subwords": 2.195415866869214
+    },
+    "sentencepiece|pubmed|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6032023409354532,
+        "subwords": 2.298761138958507
+    },
+    "sentencepiece|pubmed|contains_morphemes|diamed|cls": {
+        "perf": 0.4990527978703142,
+        "subwords": 2.3813048373311054
+    },
+    "bpe|wiki|contains_morphemes|cas|pos": {
+        "perf": 0.9694011875420122,
+        "subwords": 1.504463706552594
+    },
+    "bpe|wiki|contains_morphemes|cas|ner-spec": {
+        "perf": 0.3401529263034945,
+        "subwords": 1.504463706552594
+    },
+    "bpe|wiki|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8450953289309977,
+        "subwords": 1.504463706552594
+    },
+    "bpe|wiki|contains_morphemes|cas|cls": {
+        "perf": 0.9475370778408784,
+        "subwords": 1.504463706552594
+    },
+    "bpe|wiki|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9364806862904439,
+        "subwords": 1.7172797349132412
+    },
+    "bpe|wiki|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9594079509210713,
+        "subwords": 1.7172797349132412
+    },
+    "bpe|wiki|contains_morphemes|deft2020|cls": {
+        "perf": 0.6594880403607626,
+        "subwords": 1.3569786549529712
+    },
+    "bpe|wiki|contains_morphemes|deft2020|regr": {
+        "perf": 0.6938705593347549,
+        "subwords": 1.4475373098553144
+    },
+    "bpe|wiki|contains_morphemes|morfitt|cls": {
+        "perf": 0.6730860120969309,
+        "subwords": 1.5096929459262678
+    },
+    "bpe|wiki|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8062394526865798,
+        "subwords": 1.4932796079138293
+    },
+    "bpe|wiki|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.520173548330345,
+        "subwords": 1.4937654471591577
+    },
+    "bpe|wiki|contains_morphemes|clister|regr": {
+        "perf": 0.6566413640975952,
+        "subwords": 1.7238907465730093
+    },
+    "bpe|wiki|contains_morphemes|deft2021|ner": {
+        "perf": 0.5905068567545424,
+        "subwords": 1.4982961440022151
+    },
+    "bpe|wiki|contains_morphemes|deft2021|cls": {
+        "perf": 0.32893692539511915,
+        "subwords": 1.7142494001049948
+    },
+    "bpe|wiki|contains_morphemes|essai|ner-neg": {
+        "perf": 0.842159992061097,
+        "subwords": 1.4448430280346485
+    },
+    "bpe|wiki|contains_morphemes|essai|ner-spec": {
+        "perf": 0.5742906414793332,
+        "subwords": 1.4497647104010154
+    },
+    "bpe|wiki|contains_morphemes|essai|cls": {
+        "perf": 0.9700408712479337,
+        "subwords": 1.4567511225561838
+    },
+    "bpe|wiki|contains_morphemes|essai|pos": {
+        "perf": 0.9828055266858227,
+        "subwords": 1.4448430280346485
+    },
+    "bpe|wiki|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5636411868842083,
+        "subwords": 1.778904314962745
+    },
+    "bpe|wiki|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6262892924410076,
+        "subwords": 1.5100586204477056
+    },
+    "bpe|wiki|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.4079015586817251,
+        "subwords": 2.143869047619048
+    },
+    "bpe|wiki|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6229345695763606,
+        "subwords": 1.5180424960869607
+    },
+    "bpe|wiki|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5233253084201701,
+        "subwords": 1.622889511772879
+    },
+    "bpe|wiki|contains_morphemes|diamed|cls": {
+        "perf": 0.5524495011999515,
+        "subwords": 1.634624104412179
+    },
+    "bpe|pubmed|contains_morphemes|cas|pos": {
+        "perf": 0.9685609455523191,
+        "subwords": 2.134554910970243
+    },
+    "bpe|pubmed|contains_morphemes|cas|cls": {
+        "perf": 0.941784593081644,
+        "subwords": 2.134554910970243
+    },
+    "bpe|pubmed|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8132242949645655,
+        "subwords": 2.134554910970243
+    },
+    "bpe|pubmed|contains_morphemes|cas|ner-spec": {
+        "perf": 0.28207428478449104,
+        "subwords": 2.134554910970243
+    },
+    "bpe|pubmed|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9587427357648912,
+        "subwords": 2.2712913806826167
+    },
+    "bpe|pubmed|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9390851202250601,
+        "subwords": 2.2712913806826167
+    },
+    "bpe|pubmed|contains_morphemes|deft2020|cls": {
+        "perf": 0.7368870356425042,
+        "subwords": 2.0943602747858643
+    },
+    "bpe|pubmed|contains_morphemes|deft2020|regr": {
+        "perf": 0.7506182789802551,
+        "subwords": 2.2379857725879706
+    },
+    "bpe|pubmed|contains_morphemes|morfitt|cls": {
+        "perf": 0.6592366477572125,
+        "subwords": 2.401572236821819
+    },
+    "bpe|pubmed|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8003205492340242,
+        "subwords": 2.160004146621879
+    },
+    "bpe|pubmed|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.4860334519707392,
+        "subwords": 2.165361876604677
+    },
+    "bpe|pubmed|contains_morphemes|clister|regr": {
+        "perf": 0.6026763021945953,
+        "subwords": 2.5702828008401597
+    },
+    "bpe|pubmed|contains_morphemes|deft2021|cls": {
+        "perf": 0.3234369463901929,
+        "subwords": 2.560672636377665
+    },
+    "bpe|pubmed|contains_morphemes|deft2021|ner": {
+        "perf": 0.5620813139451541,
+        "subwords": 2.1900987555176754
+    },
+    "bpe|pubmed|contains_morphemes|essai|ner-spec": {
+        "perf": 0.5920705884219293,
+        "subwords": 2.1361110372019723
+    },
+    "bpe|pubmed|contains_morphemes|essai|pos": {
+        "perf": 0.9821712416702328,
+        "subwords": 2.1294111826183726
+    },
+    "bpe|pubmed|contains_morphemes|essai|ner-neg": {
+        "perf": 0.764045489419665,
+        "subwords": 2.1294111826183726
+    },
+    "bpe|pubmed|contains_morphemes|essai|cls": {
+        "perf": 0.9656283217509132,
+        "subwords": 2.1382348045779804
+    },
+    "bpe|pubmed|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5362741852953155,
+        "subwords": 2.2607772247458913
+    },
+    "bpe|pubmed|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6310304579493333,
+        "subwords": 2.1161916180218343
+    },
+    "bpe|pubmed|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.3621559632178496,
+        "subwords": 2.6952953296703295
+    },
+    "bpe|pubmed|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5018082932137308,
+        "subwords": 2.3000335400457104
+    },
+    "bpe|pubmed|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.605587829201879,
+        "subwords": 2.4105568639030523
+    },
+    "bpe|pubmed|contains_morphemes|diamed|cls": {
+        "perf": 0.5154868526663403,
+        "subwords": 2.4080684113747943
+    },
+    "sentencepiece|nachos|contains_morphemes|cas|ner-spec": {
+        "perf": 0.2982493901711846,
+        "subwords": 1.4519653317089007
+    },
+    "sentencepiece|nachos|contains_morphemes|cas|cls": {
+        "perf": 0.9469478249790741,
+        "subwords": 1.4519653317089007
+    },
+    "sentencepiece|nachos|contains_morphemes|cas|pos": {
+        "perf": 0.9701714093658973,
+        "subwords": 1.4519653317089007
+    },
+    "sentencepiece|nachos|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8641806465433868,
+        "subwords": 1.4519653317089007
+    },
+    "sentencepiece|nachos|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9407377593711435,
+        "subwords": 1.667057802030774
+    },
+    "sentencepiece|nachos|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9611527640067395,
+        "subwords": 1.667057802030774
+    },
+    "sentencepiece|nachos|contains_morphemes|deft2020|regr": {
+        "perf": 0.7113876789808273,
+        "subwords": 1.4914807760412092
+    },
+    "sentencepiece|nachos|contains_morphemes|deft2020|cls": {
+        "perf": 0.8528817955259993,
+        "subwords": 1.3224225877917632
+    },
+    "sentencepiece|nachos|contains_morphemes|morfitt|cls": {
+        "perf": 0.6876994571424697,
+        "subwords": 1.4994052098067718
+    },
+    "sentencepiece|nachos|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8160175908618998,
+        "subwords": 1.4260990794609263
+    },
+    "sentencepiece|nachos|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5237486331666863,
+        "subwords": 1.43192985109365
+    },
+    "sentencepiece|nachos|contains_morphemes|clister|regr": {
+        "perf": 0.6351564526557922,
+        "subwords": 1.6478973286336496
+    },
+    "sentencepiece|nachos|contains_morphemes|deft2021|ner": {
+        "perf": 0.6009228745849711,
+        "subwords": 1.440966176094006
+    },
+    "sentencepiece|nachos|contains_morphemes|deft2021|cls": {
+        "perf": 0.33071177168150795,
+        "subwords": 1.613951924483486
+    },
+    "sentencepiece|nachos|contains_morphemes|essai|cls": {
+        "perf": 0.9731962098334296,
+        "subwords": 1.4112950735945662
+    },
+    "sentencepiece|nachos|contains_morphemes|essai|ner-neg": {
+        "perf": 0.8398615113470799,
+        "subwords": 1.4058449485136957
+    },
+    "sentencepiece|nachos|contains_morphemes|essai|pos": {
+        "perf": 0.9834933056183897,
+        "subwords": 1.4058449485136957
+    },
+    "sentencepiece|nachos|contains_morphemes|essai|ner-spec": {
+        "perf": 0.6277803617478254,
+        "subwords": 1.4094693405095444
+    },
+    "sentencepiece|nachos|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6589474725236683,
+        "subwords": 1.3942093813022602
+    },
+    "sentencepiece|nachos|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5547154066564249,
+        "subwords": 1.755680938830466
+    },
+    "sentencepiece|nachos|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.3946785748281442,
+        "subwords": 2.091829212454213
+    },
+    "sentencepiece|nachos|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.4961771747164112,
+        "subwords": 1.5245087552744754
+    },
+    "sentencepiece|nachos|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6254016120325385,
+        "subwords": 1.42815164107587
+    },
+    "sentencepiece|nachos|contains_morphemes|diamed|cls": {
+        "perf": 0.5341901030632356,
+        "subwords": 1.57502166876496
+    },
+    "sentencepiece|cc100|contains_morphemes|cas|ner-neg": {
+        "perf": 0.8319075072962555,
+        "subwords": 1.5598495323108155
+    },
+    "sentencepiece|cc100|contains_morphemes|cas|pos": {
+        "perf": 0.971179699753529,
+        "subwords": 1.5598495323108155
+    },
+    "sentencepiece|cc100|contains_morphemes|cas|ner-spec": {
+        "perf": 0.2698818887253583,
+        "subwords": 1.5598495323108155
+    },
+    "sentencepiece|cc100|contains_morphemes|cas|cls": {
+        "perf": 0.9505452840707349,
+        "subwords": 1.5598495323108155
+    },
+    "sentencepiece|cc100|contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9448300527277209,
+        "subwords": 1.767777004410521
+    },
+    "sentencepiece|cc100|contains_morphemes|pxcorpus|ner": {
+        "perf": 0.96107140738375,
+        "subwords": 1.767777004410521
+    },
+    "sentencepiece|cc100|contains_morphemes|deft2020|cls": {
+        "perf": 0.7739009978231619,
+        "subwords": 1.336636463595898
+    },
+    "sentencepiece|cc100|contains_morphemes|deft2020|regr": {
+        "perf": 0.6721576452255249,
+        "subwords": 1.4847041311666922
+    },
+    "sentencepiece|cc100|contains_morphemes|morfitt|cls": {
+        "perf": 0.6771176122866558,
+        "subwords": 1.554164988585701
+    },
+    "sentencepiece|cc100|contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.817314876398969,
+        "subwords": 1.5422392077267262
+    },
+    "sentencepiece|cc100|contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5173144145952002,
+        "subwords": 1.5485351900817854
+    },
+    "sentencepiece|cc100|contains_morphemes|clister|regr": {
+        "perf": 0.6342232674360275,
+        "subwords": 1.7670021839745744
+    },
+    "sentencepiece|cc100|contains_morphemes|deft2021|cls": {
+        "perf": 0.34862209965142665,
+        "subwords": 1.7213172555089689
+    },
+    "sentencepiece|cc100|contains_morphemes|deft2021|ner": {
+        "perf": 0.5893776247641518,
+        "subwords": 1.5520314427608934
+    },
+    "sentencepiece|cc100|contains_morphemes|essai|pos": {
+        "perf": 0.9831188481995475,
+        "subwords": 1.4786771561303151
+    },
+    "sentencepiece|cc100|contains_morphemes|essai|ner-neg": {
+        "perf": 0.7963047106164346,
+        "subwords": 1.4786771561303151
+    },
+    "sentencepiece|cc100|contains_morphemes|essai|ner-spec": {
+        "perf": 0.6306342994333597,
+        "subwords": 1.485567070527579
+    },
+    "sentencepiece|cc100|contains_morphemes|essai|cls": {
+        "perf": 0.9703697017824724,
+        "subwords": 1.490673257707526
+    },
+    "sentencepiece|cc100|contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5488012203837154,
+        "subwords": 1.8905060004736596
+    },
+    "sentencepiece|cc100|contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6199319736068502,
+        "subwords": 1.5107693760630492
+    },
+    "sentencepiece|cc100|contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.3609743265993266,
+        "subwords": 2.2169253663003663
+    },
+    "sentencepiece|cc100|contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.47758299004443033,
+        "subwords": 1.5796301064272664
+    },
+    "sentencepiece|cc100|contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6384691253243068,
+        "subwords": 1.5262546452337737
+    },
+    "sentencepiece|cc100|contains_morphemes|diamed|cls": {
+        "perf": 0.5227797759100548,
+        "subwords": 1.6808586316746543
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9712077078198522,
+        "subwords": 1.4919752038922405
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8561945249746032,
+        "subwords": 1.4919752038922405
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9525345156740311,
+        "subwords": 1.4919752038922405
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.32073724838772716,
+        "subwords": 1.4919752038922405
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9372720667236101,
+        "subwords": 1.7180689961802824
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9623327890817208,
+        "subwords": 1.7180689961802824
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.7496659275034169,
+        "subwords": 1.2476113465521628
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7019915133714676,
+        "subwords": 1.4128102348532305
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6907076019967257,
+        "subwords": 1.4616403596095529
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8162438474984006,
+        "subwords": 1.473272654425259
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5320997222470789,
+        "subwords": 1.4807521666737926
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6364301294088364,
+        "subwords": 1.7084736586249953
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.34154279934816695,
+        "subwords": 1.6418937258204254
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.5930968079157113,
+        "subwords": 1.4778555109526754
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9832487619979213,
+        "subwords": 1.3971896903653014
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9748299235507681,
+        "subwords": 1.4122156584144199
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8211179054036274,
+        "subwords": 1.3971896903653014
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.6143287472114946,
+        "subwords": 1.4124476086174231
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6273954346551911,
+        "subwords": 1.4493561905490329
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5690747976832491,
+        "subwords": 1.7719788919904484
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5054579361790302,
+        "subwords": 1.5040855210824784
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.4714021972425334,
+        "subwords": 2.0642696886446883
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6395137917001658,
+        "subwords": 1.455394664822977
+    },
+    "sentencepiece|cc100|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.5713403216250117,
+        "subwords": 1.6067824968350022
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8539784650223841,
+        "subwords": 1.5066592857064438
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9442063782123815,
+        "subwords": 1.5066592857064438
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.31939273751696284,
+        "subwords": 1.5066592857064438
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9712497199193368,
+        "subwords": 1.5066592857064438
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9593098256020887,
+        "subwords": 1.7652858559994111
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9475852921229702,
+        "subwords": 1.7652858559994111
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.6107997035581225,
+        "subwords": 1.286310329650968
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7013987749814987,
+        "subwords": 1.4245636559074453
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6821603000900858,
+        "subwords": 1.4812905904673368
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8062990973906219,
+        "subwords": 1.4836339425762213
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5379461281431173,
+        "subwords": 1.4912163740277182
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.622636541724205,
+        "subwords": 1.714560236916064
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.5921180799586757,
+        "subwords": 1.4915549789797509
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.30949139448546176,
+        "subwords": 1.662333817726534
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9704478231583493,
+        "subwords": 1.4499544085469753
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9839747508711867,
+        "subwords": 1.4403348629898134
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.6458262151732017,
+        "subwords": 1.458331685282918
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8318250290303949,
+        "subwords": 1.4403348629898134
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5753870162335472,
+        "subwords": 1.7611923711529776
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6284364913592188,
+        "subwords": 1.495820140117614
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6077507548125236,
+        "subwords": 1.4856509809005272
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5282567505807975,
+        "subwords": 1.5086152220553843
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.46366863066959674,
+        "subwords": 2.1019047619047617
+    },
+    "sentencepiece|wiki|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.5366602817485271,
+        "subwords": 1.6243344175299081
+    },
+    "bpe|nachos|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9421314372760788,
+        "subwords": 1.319418781066061
+    },
+    "bpe|nachos|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8701003720611564,
+        "subwords": 1.319418781066061
+    },
+    "bpe|nachos|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9697933004705355,
+        "subwords": 1.319418781066061
+    },
+    "bpe|nachos|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.3030332236479163,
+        "subwords": 1.319418781066061
+    },
+    "bpe|nachos|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9482457826740653,
+        "subwords": 1.5446995159366883
+    },
+    "bpe|nachos|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9586489081559907,
+        "subwords": 1.5446995159366883
+    },
+    "bpe|nachos|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.9098137612616037,
+        "subwords": 1.2064230049111337
+    },
+    "bpe|nachos|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7054626494646072,
+        "subwords": 1.411987731874944
+    },
+    "bpe|nachos|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6855082449029821,
+        "subwords": 1.3817904508104812
+    },
+    "bpe|nachos|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5418490667637531,
+        "subwords": 1.2973903567387224
+    },
+    "bpe|nachos|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8200607192893205,
+        "subwords": 1.2906290807062168
+    },
+    "bpe|nachos|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6270008236169815,
+        "subwords": 1.5166338510542494
+    },
+    "bpe|nachos|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.32886006174434285,
+        "subwords": 1.4955932052588679
+    },
+    "bpe|nachos|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.6031796853105768,
+        "subwords": 1.3133075008721913
+    },
+    "bpe|nachos|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8301509566217284,
+        "subwords": 1.2773806406172208
+    },
+    "bpe|nachos|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.6046972792655517,
+        "subwords": 1.2868368158584316
+    },
+    "bpe|nachos|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9731055773359483,
+        "subwords": 1.2808098988696681
+    },
+    "bpe|nachos|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9839059729779299,
+        "subwords": 1.2773806406172208
+    },
+    "bpe|nachos|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.576642873910255,
+        "subwords": 1.529930126107723
+    },
+    "bpe|nachos|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6562623569703251,
+        "subwords": 1.2993325253571981
+    },
+    "bpe|nachos|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.4135781314905026,
+        "subwords": 1.8920833333333333
+    },
+    "bpe|nachos|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5206934885217362,
+        "subwords": 1.5356963821618994
+    },
+    "bpe|nachos|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6093966033290852,
+        "subwords": 1.3312901266576405
+    },
+    "bpe|nachos|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.5952504698291204,
+        "subwords": 1.4146696024197272
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.36053010830365045,
+        "subwords": 1.3172789040612956
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.860685742460966,
+        "subwords": 1.3172789040612956
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9704514900291284,
+        "subwords": 1.3172789040612956
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9478501835447737,
+        "subwords": 1.3172789040612956
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9492349142635361,
+        "subwords": 1.5404797885957933
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9613564172188949,
+        "subwords": 1.5404797885957933
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.8295018475780515,
+        "subwords": 1.2030175923016102
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7165700048208237,
+        "subwords": 1.4052470761595173
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6963812012284327,
+        "subwords": 1.3713542160791805
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5417122298351774,
+        "subwords": 1.2900542253388927
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.820995106387206,
+        "subwords": 1.2850801112293275
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6126589328050613,
+        "subwords": 1.512862896432483
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.342741473857936,
+        "subwords": 1.463939941676954
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.6124865754368701,
+        "subwords": 1.306661552493769
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.63881161976834,
+        "subwords": 1.2898009037025324
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9835391575472274,
+        "subwords": 1.2798812253599818
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9729439738229964,
+        "subwords": 1.2843562702172577
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8128674482049925,
+        "subwords": 1.2798812253599818
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6554487890817313,
+        "subwords": 1.3020373227439306
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5817567175343875,
+        "subwords": 1.524421910393324
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6686134629536468,
+        "subwords": 1.3151508560673717
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.4186827963609676,
+        "subwords": 1.889679487179487
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5197933164396579,
+        "subwords": 1.4292527492791185
+    },
+    "sentencepiece|nachos|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.6014551104917374,
+        "subwords": 1.4223648012704915
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9337334277869611,
+        "subwords": 2.179205462786198
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8361031883542389,
+        "subwords": 2.179205462786198
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9694431996414968,
+        "subwords": 2.179205462786198
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.2842398469335342,
+        "subwords": 2.179205462786198
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9596201164963334,
+        "subwords": 2.240307353538555
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9477732778269232,
+        "subwords": 2.240307353538555
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.8087154687371839,
+        "subwords": 2.0536940005413356
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.6334701180458069,
+        "subwords": 2.2428441746828525
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6676019822736143,
+        "subwords": 2.3452522973041154
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5205858861754831,
+        "subwords": 2.223506385061752
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8029610704691956,
+        "subwords": 2.21615632676455
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6062588393688202,
+        "subwords": 2.558303833353274
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.5699864421769654,
+        "subwords": 2.1906216830106
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.3429707065784757,
+        "subwords": 2.501855409214288
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9830042183774531,
+        "subwords": 2.1935046617413927
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.5762852868879583,
+        "subwords": 2.205178819303008
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8021761480850991,
+        "subwords": 2.1935046617413927
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9748999835022703,
+        "subwords": 2.202412618183596
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6259406992091063,
+        "subwords": 2.055863215815281
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5482051489057886,
+        "subwords": 2.3596323231734955
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.5678798569641355,
+        "subwords": 2.330399418085444
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.3635945633314054,
+        "subwords": 2.8402220695970692
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5073680779523777,
+        "subwords": 2.204973080334135
+    },
+    "sentencepiece|pubmed|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.5161950407269257,
+        "subwords": 2.419908866279638
+    },
+    "bpe|wiki|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.971557808648891,
+        "subwords": 1.5068455236953118
+    },
+    "bpe|wiki|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8470168815538233,
+        "subwords": 1.5068455236953118
+    },
+    "bpe|wiki|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9483311333173552,
+        "subwords": 1.5068455236953118
+    },
+    "bpe|wiki|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.3437880182854211,
+        "subwords": 1.5068455236953118
+    },
+    "bpe|wiki|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.961727022216557,
+        "subwords": 1.7328701849984762
+    },
+    "bpe|wiki|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9339120702422765,
+        "subwords": 1.7328701849984762
+    },
+    "bpe|wiki|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7081569582223892,
+        "subwords": 1.4268397521055733
+    },
+    "bpe|wiki|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.7711960333874099,
+        "subwords": 1.3322952653641245
+    },
+    "bpe|wiki|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6874019043474423,
+        "subwords": 1.4872757825493377
+    },
+    "bpe|wiki|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8231722197518316,
+        "subwords": 1.4849123020907282
+    },
+    "bpe|wiki|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5113234439705682,
+        "subwords": 1.4966803479982254
+    },
+    "bpe|wiki|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6237961947917938,
+        "subwords": 1.7412996675640067
+    },
+    "bpe|wiki|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.6005668688747572,
+        "subwords": 1.4956547568550864
+    },
+    "bpe|wiki|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.34191801258537086,
+        "subwords": 1.7093117580511847
+    },
+    "bpe|wiki|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8181381393429612,
+        "subwords": 1.4392978579193882
+    },
+    "bpe|wiki|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.6355684709529407,
+        "subwords": 1.4530755894300211
+    },
+    "bpe|wiki|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9738052741582697,
+        "subwords": 1.4473583496580762
+    },
+    "bpe|wiki|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9833328238674574,
+        "subwords": 1.4392978579193882
+    },
+    "bpe|wiki|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5732060499645562,
+        "subwords": 1.7699710088360463
+    },
+    "bpe|wiki|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6304717487933902,
+        "subwords": 1.488385808192411
+    },
+    "bpe|wiki|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5364048593362978,
+        "subwords": 1.5919859363084516
+    },
+    "bpe|wiki|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.43758828258820437,
+        "subwords": 2.1434592490842492
+    },
+    "bpe|wiki|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6187342775109437,
+        "subwords": 1.4966524788983957
+    },
+    "bpe|wiki|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.5627716851030493,
+        "subwords": 1.6371124129675947
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.9465555577374224,
+        "subwords": 2.195462272872048
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8237875027286334,
+        "subwords": 2.195462272872048
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.3504435339556838,
+        "subwords": 2.195462272872048
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9706615505265517,
+        "subwords": 2.195462272872048
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9363638870594658,
+        "subwords": 2.2612812429406484
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9592517508875873,
+        "subwords": 2.2612812429406484
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.5759547659916151,
+        "subwords": 2.131552806770806
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.6380235999822617,
+        "subwords": 2.271788372570389
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6649950289254648,
+        "subwords": 2.448059596723439
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8090618620885847,
+        "subwords": 2.223188499804764
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5235350413175903,
+        "subwords": 2.2327773358691094
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6348986476659775,
+        "subwords": 2.6548643492048
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.5805521685691677,
+        "subwords": 2.2577804710844225
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.33384779458801567,
+        "subwords": 2.633552539325119
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9833633918200159,
+        "subwords": 2.1914245736429847
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9744394747412917,
+        "subwords": 2.200887538889885
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.564088987537671,
+        "subwords": 2.199222667188699
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.7925969455181029,
+        "subwords": 2.1914245736429847
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6387589638716564,
+        "subwords": 2.14489931560638
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5543696642958558,
+        "subwords": 2.3530983846074296
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.5815193596369704,
+        "subwords": 2.4715135780063187
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5702911622276029,
+        "subwords": 2.34317845395533
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.3927042476175794,
+        "subwords": 2.838592032967033
+    },
+    "bpe|pubmed|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.4794573570478089,
+        "subwords": 2.473055787015541
+    },
+    "bpe|cc100|doesnt_contains_morphemes|cas|ner-neg": {
+        "perf": 0.8484839197114731,
+        "subwords": 1.4911575296586268
+    },
+    "bpe|cc100|doesnt_contains_morphemes|cas|pos": {
+        "perf": 0.9705635222944208,
+        "subwords": 1.4911575296586268
+    },
+    "bpe|cc100|doesnt_contains_morphemes|cas|cls": {
+        "perf": 0.952038290377778,
+        "subwords": 1.4911575296586268
+    },
+    "bpe|cc100|doesnt_contains_morphemes|cas|ner-spec": {
+        "perf": 0.34583353661101063,
+        "subwords": 1.4911575296586268
+    },
+    "bpe|cc100|doesnt_contains_morphemes|pxcorpus|cls": {
+        "perf": 0.9423596090670893,
+        "subwords": 1.7609083572012445
+    },
+    "bpe|cc100|doesnt_contains_morphemes|pxcorpus|ner": {
+        "perf": 0.9614243741177355,
+        "subwords": 1.7609083572012445
+    },
+    "bpe|cc100|doesnt_contains_morphemes|deft2020|cls": {
+        "perf": 0.795200022628983,
+        "subwords": 1.3107374962412939
+    },
+    "bpe|cc100|doesnt_contains_morphemes|deft2020|regr": {
+        "perf": 0.7008649706840515,
+        "subwords": 1.4248379309318282
+    },
+    "bpe|cc100|doesnt_contains_morphemes|morfitt|cls": {
+        "perf": 0.6843355962152551,
+        "subwords": 1.4752434737655529
+    },
+    "bpe|cc100|doesnt_contains_morphemes|e3c|ner-temporal": {
+        "perf": 0.8182371410756513,
+        "subwords": 1.4780545383299484
+    },
+    "bpe|cc100|doesnt_contains_morphemes|e3c|ner-clinical": {
+        "perf": 0.5271158318814995,
+        "subwords": 1.4844699292224381
+    },
+    "bpe|cc100|doesnt_contains_morphemes|clister|regr": {
+        "perf": 0.6549015045166016,
+        "subwords": 1.725549326499091
+    },
+    "bpe|cc100|doesnt_contains_morphemes|deft2021|ner": {
+        "perf": 0.5939081551469628,
+        "subwords": 1.4828891796882235
+    },
+    "bpe|cc100|doesnt_contains_morphemes|deft2021|cls": {
+        "perf": 0.34457249189403805,
+        "subwords": 1.6906933126848334
+    },
+    "bpe|cc100|doesnt_contains_morphemes|essai|ner-spec": {
+        "perf": 0.5792584108684572,
+        "subwords": 1.421393408489105
+    },
+    "bpe|cc100|doesnt_contains_morphemes|essai|pos": {
+        "perf": 0.9837149232744391,
+        "subwords": 1.4076102437283617
+    },
+    "bpe|cc100|doesnt_contains_morphemes|essai|cls": {
+        "perf": 0.9736622943149313,
+        "subwords": 1.4215962184816948
+    },
+    "bpe|cc100|doesnt_contains_morphemes|essai|ner-neg": {
+        "perf": 0.8220124965697732,
+        "subwords": 1.4076102437283617
+    },
+    "bpe|cc100|doesnt_contains_morphemes|quaero|ner-medline": {
+        "perf": 0.5784704838669827,
+        "subwords": 1.7751882408869366
+    },
+    "bpe|cc100|doesnt_contains_morphemes|quaero|ner-emea": {
+        "perf": 0.6209724377027487,
+        "subwords": 1.444534256838991
+    },
+    "bpe|cc100|doesnt_contains_morphemes|mantragsc|fr-patents": {
+        "perf": 0.5694568875611724,
+        "subwords": 1.6103372013382156
+    },
+    "bpe|cc100|doesnt_contains_morphemes|mantragsc|fr-emea": {
+        "perf": 0.6933583959899748,
+        "subwords": 1.4852782098925477
+    },
+    "bpe|cc100|doesnt_contains_morphemes|mantragsc|fr-medline": {
+        "perf": 0.44302441630789297,
+        "subwords": 2.061465201465201
+    },
+    "bpe|cc100|doesnt_contains_morphemes|diamed|cls": {
+        "perf": 0.49795485842237264,
+        "subwords": 1.6145719255051936
+    }
+}

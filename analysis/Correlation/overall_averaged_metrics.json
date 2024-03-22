@@ -1,0 +1,1762 @@
+{
+    "../../../models/biomedtok_sentencepiecebpe-wikipedia-fr-morphemes": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.9714177683172753,
+            "overall_accuracy": 0.9714177683172753
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.2872416759073861,
+            "overall_accuracy": 0.9883206363432668
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8416397077805539,
+            "overall_accuracy": 0.9865981402643962
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7899357628205683,
+            "weighted_f1": 0.9410564362841836
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9606116759436729,
+            "overall_accuracy": 0.965233666061706
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5008947675979405,
+            "weighted_f1": 0.9366147371409412
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.6528542573196424,
+            "weighted_f1": 0.6629914168166928
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.672873243689537,
+            "spearman_correlation_coef": 0.79211893312381
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.64574003805884,
+            "weighted_f1": 0.6747978678929852
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8110776247171562,
+            "overall_accuracy": 0.9178094080888735
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5246245656303679,
+            "overall_accuracy": 0.9425097411633734
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6049920618534088,
+            "spearman_correlation_coef": 0.4836584294385168
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.24188624126474967,
+            "overall_accuracy": 0.9367793705204114
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.28290460878885315,
+            "exact_match": 0.014469453376205787
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3279908769450435,
+            "weighted_f1": 0.6487536646994522
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5989805960307868,
+            "overall_accuracy": 0.8342457712396377
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.12913831051514463,
+            "weighted_f1": 0.31884978797896063
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8423820029499527,
+            "overall_accuracy": 0.9921516781805956
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9831570581402458,
+            "overall_accuracy": 0.9831570581402458
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6197368932461285,
+            "overall_accuracy": 0.9852096731854574
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8948963075213953,
+            "weighted_f1": 0.9703657847603933
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6308792126317831,
+            "overall_accuracy": 0.9075527321043017
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5583054822228565,
+            "overall_accuracy": 0.8386073038358937
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.5953432647176089,
+            "overall_accuracy": 0.8800715990453462
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.39862341858867073,
+            "overall_accuracy": 0.73125
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.4804043643026694,
+            "overall_accuracy": 0.9000974658869395
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3933711385370019,
+            "weighted_f1": 0.5624516674091898
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-cc100-fr-morphemes": {
+        "cas|cls|1.0": {
+            "macro_f1": 0.8343190170584833,
+            "weighted_f1": 0.9532488804649029
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.3200078882127564,
+            "overall_accuracy": 0.9898610799910373
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9695552319067892,
+            "overall_accuracy": 0.9695552319067892
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8422981215431102,
+            "overall_accuracy": 0.9863600717006498
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5218692083339505,
+            "weighted_f1": 0.9458196970007956
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9598696817129981,
+            "overall_accuracy": 0.9651202359346642
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6712434142827988,
+            "spearman_correlation_coef": 0.7809497679778881
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.7600304467724638,
+            "weighted_f1": 0.7628461530844896
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6339930051486677,
+            "weighted_f1": 0.6703649485745168
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5133421715324696,
+            "overall_accuracy": 0.941822641246869
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8121839356232698,
+            "overall_accuracy": 0.9157264363825725
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6340033113956451,
+            "spearman_correlation_coef": 0.5608575759042344
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9324861702956531
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.32437983165711004,
+            "weighted_f1": 0.6439781231550069
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.30551982851018206,
+            "exact_match": 0.02572347266881029
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.1427716399059515,
+            "weighted_f1": 0.33943828002802634
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5919612957450903,
+            "overall_accuracy": 0.8310558336726628
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9837684171914165,
+            "overall_accuracy": 0.9837684171914165
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8317795047200549,
+            "overall_accuracy": 0.991807788714312
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8792834372704137,
+            "weighted_f1": 0.9670716823086644
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6146213018233012,
+            "overall_accuracy": 0.9870389814936342
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5500399715755575,
+            "overall_accuracy": 0.835065771318186
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6268179986546328,
+            "overall_accuracy": 0.9081547915628634
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5392739541160594,
+            "overall_accuracy": 0.9025341130604289
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6298247261825092,
+            "overall_accuracy": 0.8926014319809069
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.4115839238921375,
+            "overall_accuracy": 0.73125
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.20016194766191203,
+            "weighted_f1": 0.39548394706918377
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-nachos-fr-morphemes": {
+        "cas|cls|1.0": {
+            "macro_f1": 0.8177484530092567,
+            "weighted_f1": 0.9491957984838035
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8329645948259206,
+            "overall_accuracy": 0.9839933900963478
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.30560046545320035,
+            "overall_accuracy": 0.9893149226977369
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9687850100829039,
+            "overall_accuracy": 0.9687850100829039
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5097717993148957,
+            "weighted_f1": 0.9422027472038005
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9584698202693341,
+            "overall_accuracy": 0.9638157894736843
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7088830024003983,
+            "spearman_correlation_coef": 0.8122798247326085
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.856235289069254,
+            "weighted_f1": 0.8592845301384258
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6504174594392966,
+            "weighted_f1": 0.6796544399263501
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5305292636589883,
+            "overall_accuracy": 0.9433794878931255
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8116294373833662,
+            "overall_accuracy": 0.916290574553029
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6261066049337387,
+            "spearman_correlation_coef": 0.5237574319980716
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9322861146710424
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.34800092079586686,
+            "weighted_f1": 0.6599994047659064
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.29560557341907817,
+            "exact_match": 0.022508038585209004
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5896299682901476,
+            "overall_accuracy": 0.8323458297424111
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14676798657270096,
+            "weighted_f1": 0.3451082015940943
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.609346612286142,
+            "overall_accuracy": 0.9854229557684736
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9828743045790792,
+            "overall_accuracy": 0.9828743045790792
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8342328947124898,
+            "overall_accuracy": 0.9916243809989607
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8837338725002603,
+            "weighted_f1": 0.9706424734449683
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5617960182583085,
+            "overall_accuracy": 0.8365375770398307
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6511862063801608,
+            "overall_accuracy": 0.9095665171898356
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6391696152145069,
+            "overall_accuracy": 0.886634844868735
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.42941820821077786,
+            "overall_accuracy": 0.7462499999999999
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5331692891251059,
+            "overall_accuracy": 0.8991228070175439
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3910081821825749,
+            "weighted_f1": 0.5732609854295041
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-pubmed-fr-morphemes": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.9686729778176115,
+            "overall_accuracy": 0.9686729778176115
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.22178746235350008,
+            "overall_accuracy": 0.9875644185525432
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.838730323650628,
+            "overall_accuracy": 0.9850997087161103
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7781059952135585,
+            "weighted_f1": 0.935686342490281
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9607192236189461,
+            "overall_accuracy": 0.9647232304900182
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.49791550503970766,
+            "weighted_f1": 0.9408799291071526
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.67299987493032,
+            "weighted_f1": 0.6669792126841457
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6286517754197121,
+            "spearman_correlation_coef": 0.7656797483607789
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6358108695162686,
+            "weighted_f1": 0.6619416007280043
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5107624358792356,
+            "overall_accuracy": 0.940892012246034
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.7980406451947077,
+            "overall_accuracy": 0.9122548168720708
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6235468834638596,
+            "spearman_correlation_coef": 0.5249750397853631
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.12737681333896958,
+            "overall_accuracy": 0.9359821380373433
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3269453504581329,
+            "weighted_f1": 0.6462934871682362
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.23662915326902464,
+            "exact_match": 0.08681672025723473
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.13815555324035594,
+            "weighted_f1": 0.33134898582094974
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5658035609724908,
+            "overall_accuracy": 0.8228806850892343
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8106111090378885,
+            "overall_accuracy": 0.9906691324815065
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8801911457498116,
+            "weighted_f1": 0.9715948768534091
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9821177477532556,
+            "overall_accuracy": 0.9821177477532556
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.5568351103428922,
+            "overall_accuracy": 0.9833803648772804
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6378781398514347,
+            "overall_accuracy": 0.9068676299618004
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5289093409316391,
+            "overall_accuracy": 0.8250620918038818
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.378361287834972,
+            "overall_accuracy": 0.72
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.4943910514754636,
+            "overall_accuracy": 0.9000974658869396
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6032023409354532,
+            "overall_accuracy": 0.8860381861575178
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3025569494784115,
+            "weighted_f1": 0.4990527978703142
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-wikipedia-fr-morphemes": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.9694011875420122,
+            "overall_accuracy": 0.9694011875420122
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.3401529263034945,
+            "overall_accuracy": 0.9890488460676674
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8450953289309977,
+            "overall_accuracy": 0.9858419224736724
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.8267480245019065,
+            "weighted_f1": 0.9475370778408784
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5100923916689646,
+            "weighted_f1": 0.9364806862904439
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9594079509210713,
+            "overall_accuracy": 0.9648933756805808
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.651514739632344,
+            "weighted_f1": 0.6594880403607626
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6938705593347549,
+            "spearman_correlation_coef": 0.8143582770478945
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6412260807136009,
+            "weighted_f1": 0.6730860120969309
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8062394526865798,
+            "overall_accuracy": 0.9141208123589655
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.520173548330345,
+            "overall_accuracy": 0.9425010436960757
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6566413640975952,
+            "spearman_correlation_coef": 0.5802505705464459
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9322313257055865
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.33554756560663906,
+            "weighted_f1": 0.6533240153032874
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.22186495176848833,
+            "exact_match": 0.1045016077170418
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5905068567545424,
+            "overall_accuracy": 0.8330238631462935
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.13381275393906733,
+            "weighted_f1": 0.32893692539511915
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.842159992061097,
+            "overall_accuracy": 0.9923198019196674
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.5742906414793332,
+            "overall_accuracy": 0.9835854442840268
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8815689604496197,
+            "weighted_f1": 0.9700408712479337
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9828055266858227,
+            "overall_accuracy": 0.9828055266858227
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5636411868842083,
+            "overall_accuracy": 0.8387452856222979
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6262892924410076,
+            "overall_accuracy": 0.9046877595083873
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.4079015586817251,
+            "overall_accuracy": 0.7375
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6229345695763606,
+            "overall_accuracy": 0.8973747016706444
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5233253084201701,
+            "overall_accuracy": 0.895224171539961
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3662333602012801,
+            "weighted_f1": 0.5524495011999515
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-pubmed-fr-morphemes": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.9685609455523191,
+            "overall_accuracy": 0.9685609455523191
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7780206326306414,
+            "weighted_f1": 0.941784593081644
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8132242949645655,
+            "overall_accuracy": 0.983237172305624
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.28207428478449104,
+            "overall_accuracy": 0.9880405556800358
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9587427357648912,
+            "overall_accuracy": 0.9648933756805808
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5044157131361953,
+            "weighted_f1": 0.9390851202250601
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.7314989924738454,
+            "weighted_f1": 0.7368870356425042
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7506182789802551,
+            "spearman_correlation_coef": 0.8122818942099275
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6237610652196675,
+            "weighted_f1": 0.6592366477572125
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8003205492340242,
+            "overall_accuracy": 0.9070039923624371
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.4860334519707392,
+            "overall_accuracy": 0.9395352073476203
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6026763021945953,
+            "spearman_correlation_coef": 0.48572337859540116
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.932167903486091
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.27347266881028953,
+            "exact_match": 0.028938906752411574
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3376560579405509,
+            "weighted_f1": 0.6502244763497403
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.13487533582760267,
+            "weighted_f1": 0.3234369463901929
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5620813139451541,
+            "overall_accuracy": 0.8223663701110286
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.5920705884219293,
+            "overall_accuracy": 0.9828307520672004
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9821712416702328,
+            "overall_accuracy": 0.9821712416702328
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.764045489419665,
+            "overall_accuracy": 0.9896603900470746
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8688013289353649,
+            "weighted_f1": 0.9656283217509132
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5362741852953155,
+            "overall_accuracy": 0.8271318185999448
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6310304579493333,
+            "overall_accuracy": 0.9067845872778608
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.3621559632178496,
+            "overall_accuracy": 0.72125
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5018082932137308,
+            "overall_accuracy": 0.891812865497076
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.605587829201879,
+            "overall_accuracy": 0.8878281622911695
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3468893477046602,
+            "weighted_f1": 0.5154868526663403
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-nachos-fr-morphemes": {
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.2982493901711846,
+            "overall_accuracy": 0.9877604750168049
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7864657971860676,
+            "weighted_f1": 0.9469478249790741
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9701714093658973,
+            "overall_accuracy": 0.9701714093658973
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8641806465433868,
+            "overall_accuracy": 0.9878865113152587
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.4998712268031476,
+            "weighted_f1": 0.9407377593711435
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9611527640067395,
+            "overall_accuracy": 0.9672754083484574
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7113876789808273,
+            "spearman_correlation_coef": 0.8164784674531074
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.8472442582003827,
+            "weighted_f1": 0.8528817955259993
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6581700348131659,
+            "weighted_f1": 0.6876994571424697
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8160175908618998,
+            "overall_accuracy": 0.9180697795521611
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5237486331666863,
+            "overall_accuracy": 0.94220532980796
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6351564526557922,
+            "spearman_correlation_coef": 0.5332482587487151
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.004931313842902431,
+            "overall_accuracy": 0.9328801988202533
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.2581189710610932,
+            "exact_match": 0.022508038585209004
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.32514639415922447,
+            "weighted_f1": 0.6454218985283163
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.6009228745849711,
+            "overall_accuracy": 0.8337122209193807
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.13763520160211745,
+            "weighted_f1": 0.33071177168150795
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.9048481609491379,
+            "weighted_f1": 0.9731962098334296
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8398615113470799,
+            "overall_accuracy": 0.9918612826312894
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9834933056183897,
+            "overall_accuracy": 0.9834933056183897
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6277803617478254,
+            "overall_accuracy": 0.9857920987006168
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6589474725236683,
+            "overall_accuracy": 0.9137394120577976
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5547154066564249,
+            "overall_accuracy": 0.8361926225738202
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.3946785748281442,
+            "overall_accuracy": 0.735
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.4961771747164112,
+            "overall_accuracy": 0.8854775828460039
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6254016120325385,
+            "overall_accuracy": 0.8931980906921241
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.35554474499714217,
+            "weighted_f1": 0.5341901030632356
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-cc100-fr-morphemes": {
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8319075072962555,
+            "overall_accuracy": 0.9847215998207484
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.971179699753529,
+            "overall_accuracy": 0.971179699753529
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.2698818887253583,
+            "overall_accuracy": 0.987942527447905
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.8352117659048099,
+            "weighted_f1": 0.9505452840707349
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5311089793121513,
+            "weighted_f1": 0.9448300527277209
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.96107140738375,
+            "overall_accuracy": 0.9652903811252268
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.7659797935643553,
+            "weighted_f1": 0.7739009978231619
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6721576452255249,
+            "spearman_correlation_coef": 0.8192372985589367
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6451818522106259,
+            "weighted_f1": 0.6771176122866558
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.817314876398969,
+            "overall_accuracy": 0.9174622461378232
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5173144145952002,
+            "overall_accuracy": 0.9414921374895631
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6342232674360275,
+            "spearman_correlation_coef": 0.5184079778765921
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0014845605700712589,
+            "overall_accuracy": 0.9326642882839669
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.254581993569132,
+            "exact_match": 0.01607717041800643
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.33436006632572135,
+            "weighted_f1": 0.6540086423206213
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14971817275083135,
+            "weighted_f1": 0.34862209965142665
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5893776247641518,
+            "overall_accuracy": 0.8307699678980404
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9831188481995475,
+            "overall_accuracy": 0.9831188481995475
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.7963047106164346,
+            "overall_accuracy": 0.9902946750626642
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6306342994333597,
+            "overall_accuracy": 0.9855952224701403
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8919199661599551,
+            "weighted_f1": 0.9703697017824724
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5488012203837154,
+            "overall_accuracy": 0.8326280930917119
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6199319736068502,
+            "overall_accuracy": 0.9044801527985384
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.3609743265993266,
+            "overall_accuracy": 0.7162499999999999
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.47758299004443033,
+            "overall_accuracy": 0.8971734892787524
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6384691253243068,
+            "overall_accuracy": 0.8937947494033412
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.34189852007546695,
+            "weighted_f1": 0.5227797759100548
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-cc100-fr": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.9712077078198522,
+            "overall_accuracy": 0.9712077078198522
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8561945249746032,
+            "overall_accuracy": 0.9861360071700649
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.8296400714639929,
+            "weighted_f1": 0.9525345156740311
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.32073724838772716,
+            "overall_accuracy": 0.9893009186645754
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.4921632463976303,
+            "weighted_f1": 0.9372720667236101
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9623327890817208,
+            "overall_accuracy": 0.9672186932849364
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.7458137724981991,
+            "weighted_f1": 0.7496659275034169
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7019915133714676,
+            "spearman_correlation_coef": 0.7961459834986131
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.663611871719755,
+            "weighted_f1": 0.6907076019967257
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8162438474984006,
+            "overall_accuracy": 0.9200225655268183
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5320997222470789,
+            "overall_accuracy": 0.943388185360423
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6364301294088364,
+            "spearman_correlation_coef": 0.5436642289039804
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9322167003375077
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3354247577810631,
+            "weighted_f1": 0.6556770215725594
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.2889067524115755,
+            "exact_match": 0.012861736334405145
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14467444377671435,
+            "weighted_f1": 0.34154279934816695
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5930968079157113,
+            "overall_accuracy": 0.8344173733889129
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9832487619979213,
+            "overall_accuracy": 0.9832487619979213
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.9028433144847647,
+            "weighted_f1": 0.9748299235507681
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8211179054036274,
+            "overall_accuracy": 0.9916625909396588
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6143287472114946,
+            "overall_accuracy": 0.986997965612285
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6273954346551911,
+            "overall_accuracy": 0.9069921939877097
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5690747976832491,
+            "overall_accuracy": 0.8418268788519916
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5054579361790302,
+            "overall_accuracy": 0.9020467836257311
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.4714021972425334,
+            "overall_accuracy": 0.7587499999999999
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6395137917001658,
+            "overall_accuracy": 0.8943914081145585
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3905195925631595,
+            "weighted_f1": 0.5713403216250117
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-wikipedia-fr": {
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8539784650223841,
+            "overall_accuracy": 0.9852817611472104
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.8119132144788126,
+            "weighted_f1": 0.9442063782123815
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.31939273751696284,
+            "overall_accuracy": 0.9887127492717903
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9712497199193368,
+            "overall_accuracy": 0.9712497199193368
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9593098256020887,
+            "overall_accuracy": 0.9646665154264973
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5241763427078281,
+            "weighted_f1": 0.9475852921229702
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.5981500254569762,
+            "weighted_f1": 0.6107997035581225
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7013987749814987,
+            "spearman_correlation_coef": 0.8022196815899063
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6559063999504131,
+            "weighted_f1": 0.6821603000900858
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8062990973906219,
+            "overall_accuracy": 0.9164641555285541
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5379461281431173,
+            "overall_accuracy": 0.9434316726969106
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.622636541724205,
+            "spearman_correlation_coef": 0.5076573758234887
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.04338125929598414,
+            "overall_accuracy": 0.9324412180624131
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.28003751339764205,
+            "exact_match": 0.05144694533762058
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3290627557608355,
+            "weighted_f1": 0.647961451975548
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5921180799586757,
+            "overall_accuracy": 0.8340781118964898
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.12012685548775279,
+            "weighted_f1": 0.30949139448546176
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8889465720069516,
+            "weighted_f1": 0.9704478231583493
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9839747508711867,
+            "overall_accuracy": 0.9839747508711867
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6458262151732017,
+            "overall_accuracy": 0.9868174957343483
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8318250290303949,
+            "overall_accuracy": 0.9917084428684967
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5753870162335472,
+            "overall_accuracy": 0.8426087756416153
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6284364913592188,
+            "overall_accuracy": 0.9081755522338482
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6077507548125236,
+            "overall_accuracy": 0.8854415274463008
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5282567505807975,
+            "overall_accuracy": 0.902534113060429
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.46366863066959674,
+            "overall_accuracy": 0.755
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3545024831581147,
+            "weighted_f1": 0.5366602817485271
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-nachos-fr": {
+        "cas|cls|1.0": {
+            "macro_f1": 0.741321326785149,
+            "weighted_f1": 0.9421314372760788
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8701003720611564,
+            "overall_accuracy": 0.9865421241317499
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9697933004705355,
+            "overall_accuracy": 0.9697933004705355
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.3030332236479163,
+            "overall_accuracy": 0.9884466726417208
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.539642394783509,
+            "weighted_f1": 0.9482457826740653
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9586489081559907,
+            "overall_accuracy": 0.9644963702359347
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.90646293672214,
+            "weighted_f1": 0.9098137612616037
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7054626494646072,
+            "spearman_correlation_coef": 0.8011053442975727
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6549563637972369,
+            "weighted_f1": 0.6855082449029821
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5418490667637531,
+            "overall_accuracy": 0.9434751600333983
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8200607192893205,
+            "overall_accuracy": 0.9218451657698317
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6270008236169815,
+            "spearman_correlation_coef": 0.5557167737747122
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9323011154419557
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.33370629799554996,
+            "weighted_f1": 0.6529525065364811
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.27162379421221866,
+            "exact_match": 0.014469453376205787
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.13502795283581065,
+            "weighted_f1": 0.32886006174434285
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.6031796853105768,
+            "overall_accuracy": 0.8374180269015365
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8301509566217284,
+            "overall_accuracy": 0.9915021091887265
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6046972792655517,
+            "overall_accuracy": 0.9858085050531566
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8897122577955715,
+            "weighted_f1": 0.9731055773359483
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9839059729779299,
+            "overall_accuracy": 0.9839059729779299
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.576642873910255,
+            "overall_accuracy": 0.8434596633244412
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6562623569703251,
+            "overall_accuracy": 0.9104177047002159
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.4135781314905026,
+            "overall_accuracy": 0.7424999999999999
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5206934885217362,
+            "overall_accuracy": 0.9015594541910331
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6093966033290852,
+            "overall_accuracy": 0.883054892601432
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.42533309637073846,
+            "weighted_f1": 0.5952504698291204
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-nachos-fr": {
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.36053010830365045,
+            "overall_accuracy": 0.9891748823661215
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.860685742460966,
+            "overall_accuracy": 0.9870182612592426
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9704514900291284,
+            "overall_accuracy": 0.9704514900291284
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7955890554406614,
+            "weighted_f1": 0.9478501835447737
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5178255998068939,
+            "weighted_f1": 0.9492349142635361
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9613564172188949,
+            "overall_accuracy": 0.9655172413793104
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.8239836779610548,
+            "weighted_f1": 0.8295018475780515
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7165700048208237,
+            "spearman_correlation_coef": 0.8116905247280691
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6680715034850039,
+            "weighted_f1": 0.6963812012284327
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5417122298351774,
+            "overall_accuracy": 0.9440665878096299
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.820995106387206,
+            "overall_accuracy": 0.9201527512584621
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6126589328050613,
+            "spearman_correlation_coef": 0.5887513277972812
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.11863151658767772,
+            "overall_accuracy": 0.9349290875674252
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.33951118751576786,
+            "weighted_f1": 0.6561693483898404
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.27366023579849963,
+            "exact_match": 0.02572347266881029
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.1452452417138152,
+            "weighted_f1": 0.342741473857936
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.6124865754368701,
+            "overall_accuracy": 0.8364837057950902
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.63881161976834,
+            "overall_accuracy": 0.987055387846174
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9835391575472274,
+            "overall_accuracy": 0.9835391575472274
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8890272195099164,
+            "weighted_f1": 0.9729439738229964
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8128674482049925,
+            "overall_accuracy": 0.9910283059240692
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6554487890817313,
+            "overall_accuracy": 0.9123692077727952
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5817567175343875,
+            "overall_accuracy": 0.8467022353049397
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6686134629536468,
+            "overall_accuracy": 0.8955847255369929
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.4186827963609676,
+            "overall_accuracy": 0.7475
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5197933164396579,
+            "overall_accuracy": 0.8996101364522417
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.4100620778201593,
+            "weighted_f1": 0.6014551104917374
+        }
+    },
+    "../../../models/biomedtok_sentencepiecebpe-pubmed-fr": {
+        "cas|cls|1.0": {
+            "macro_f1": 0.7565031163747299,
+            "weighted_f1": 0.9337334277869611
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8361031883542389,
+            "overall_accuracy": 0.9839793860631862
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9694431996414968,
+            "overall_accuracy": 0.9694431996414968
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.2842398469335342,
+            "overall_accuracy": 0.9872703338561505
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9596201164963334,
+            "overall_accuracy": 0.9642127949183303
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5252559258963643,
+            "weighted_f1": 0.9477732778269232
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.8070155252610838,
+            "weighted_f1": 0.8087154687371839
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6334701180458069,
+            "spearman_correlation_coef": 0.7988254120273116
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6373129773361585,
+            "weighted_f1": 0.6676019822736143
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5205858861754831,
+            "overall_accuracy": 0.942405371555803
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8029610704691956,
+            "overall_accuracy": 0.9131661169935775
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6062588393688202,
+            "spearman_correlation_coef": 0.5091632906327994
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9321723794555554
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3276582913412093,
+            "weighted_f1": 0.6436983957894127
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.32226688102893913,
+            "exact_match": 0.01607717041800643
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5699864421769654,
+            "overall_accuracy": 0.8257844736589579
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14738496526362937,
+            "weighted_f1": 0.3429707065784757
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9830042183774531,
+            "overall_accuracy": 0.9830042183774531
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.5762852868879583,
+            "overall_accuracy": 0.9831506759417247
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8021761480850991,
+            "overall_accuracy": 0.9905697866356912
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8952380065247154,
+            "weighted_f1": 0.9748999835022703
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6259406992091063,
+            "overall_accuracy": 0.9068053479488457
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5482051489057886,
+            "overall_accuracy": 0.8332030172017295
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.5678798569641355,
+            "overall_accuracy": 0.8788782816229116
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.3635945633314054,
+            "overall_accuracy": 0.72125
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5073680779523777,
+            "overall_accuracy": 0.898635477582846
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.3529174188659729,
+            "weighted_f1": 0.5161950407269257
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-wikipedia-fr": {
+        "cas|pos|1.0": {
+            "overall_f1": 0.971557808648891,
+            "overall_accuracy": 0.971557808648891
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8470168815538233,
+            "overall_accuracy": 0.9864861079991037
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.7989323390888106,
+            "weighted_f1": 0.9483311333173552
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.3437880182854211,
+            "overall_accuracy": 0.9890348420345059
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.961727022216557,
+            "overall_accuracy": 0.9667082577132486
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5099567776486869,
+            "weighted_f1": 0.9339120702422765
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7081569582223892,
+            "spearman_correlation_coef": 0.82254064182333
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.7642861915139253,
+            "weighted_f1": 0.7711960333874099
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6545777445115584,
+            "weighted_f1": 0.6874019043474423
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8231722197518316,
+            "overall_accuracy": 0.9208904704044436
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5113234439705682,
+            "overall_accuracy": 0.941092053993877
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6237961947917938,
+            "spearman_correlation_coef": 0.5547167741220363
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.932228076169241
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.329414801837967,
+            "weighted_f1": 0.6493213046406974
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.22218649517684877,
+            "exact_match": 0.0594855305466238
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.6005668688747572,
+            "overall_accuracy": 0.8369856940883276
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.144768745297685,
+            "weighted_f1": 0.34191801258537086
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8181381393429612,
+            "overall_accuracy": 0.9918383566668705
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.6355684709529407,
+            "overall_accuracy": 0.9868667147919674
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8979138928844492,
+            "weighted_f1": 0.9738052741582697
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9833328238674574,
+            "overall_accuracy": 0.9833328238674574
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5732060499645562,
+            "overall_accuracy": 0.842562781712814
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6304717487933902,
+            "overall_accuracy": 0.9089644577312739
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5364048593362978,
+            "overall_accuracy": 0.8976608187134503
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.43758828258820437,
+            "overall_accuracy": 0.7362500000000001
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6187342775109437,
+            "overall_accuracy": 0.8890214797136038
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.38528190609027296,
+            "weighted_f1": 0.5627716851030493
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-pubmed-fr": {
+        "cas|cls|1.0": {
+            "macro_f1": 0.8158069017058452,
+            "weighted_f1": 0.9465555577374224
+        },
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8237875027286334,
+            "overall_accuracy": 0.9834332287698857
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.3504435339556838,
+            "overall_accuracy": 0.988628725072821
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9706615505265517,
+            "overall_accuracy": 0.9706615505265517
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.5105517086073305,
+            "weighted_f1": 0.9363638870594658
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9592517508875873,
+            "overall_accuracy": 0.9662545372050816
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.570206950728369,
+            "weighted_f1": 0.5759547659916151
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.6380235999822617,
+            "spearman_correlation_coef": 0.7784492947773463
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6350097099520735,
+            "weighted_f1": 0.6649950289254648
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8090618620885847,
+            "overall_accuracy": 0.9140340218712029
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5235350413175903,
+            "overall_accuracy": 0.9424749512941831
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6348986476659775,
+            "spearman_correlation_coef": 0.5835987900325517
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.932155693293572
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.3375337408530215,
+            "weighted_f1": 0.648018332858887
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.3401125401929261,
+            "exact_match": 0.02572347266881029
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5805521685691677,
+            "overall_accuracy": 0.8284784016501571
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14006462476312578,
+            "weighted_f1": 0.33384779458801567
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9833633918200159,
+            "overall_accuracy": 0.9833633918200159
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.8847212561377471,
+            "weighted_f1": 0.9744394747412917
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.564088987537671,
+            "overall_accuracy": 0.9843155269720436
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.7925969455181029,
+            "overall_accuracy": 0.9902411811456868
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6387589638716564,
+            "overall_accuracy": 0.9084246802856668
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5543696642958558,
+            "overall_accuracy": 0.8330420384509245
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.5815193596369704,
+            "overall_accuracy": 0.8836515513126493
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5702911622276029,
+            "overall_accuracy": 0.9098440545808966
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.3927042476175794,
+            "overall_accuracy": 0.7425
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.2952680925657147,
+            "weighted_f1": 0.4794573570478089
+        }
+    },
+    "../../../models/biomedtok_bpe-hf-cc100-fr": {
+        "cas|ner-neg|1.0": {
+            "overall_f1": 0.8484839197114731,
+            "overall_accuracy": 0.9855058256777952
+        },
+        "cas|pos|1.0": {
+            "overall_f1": 0.9705635222944208,
+            "overall_accuracy": 0.9705635222944208
+        },
+        "cas|cls|1.0": {
+            "macro_f1": 0.823024240967593,
+            "weighted_f1": 0.952038290377778
+        },
+        "cas|ner-spec|1.0": {
+            "overall_f1": 0.34583353661101063,
+            "overall_accuracy": 0.9890628501008291
+        },
+        "pxcorpus|cls|1.0": {
+            "macro_f1": 0.4762721999126679,
+            "weighted_f1": 0.9423596090670893
+        },
+        "pxcorpus|ner|1.0": {
+            "overall_f1": 0.9614243741177355,
+            "overall_accuracy": 0.9667649727767695
+        },
+        "deft2020|cls|1.0": {
+            "macro_f1": 0.787486494149188,
+            "weighted_f1": 0.795200022628983
+        },
+        "deft2020|regr|1.0": {
+            "edrm": 0.7008649706840515,
+            "spearman_correlation_coef": 0.8034933686357965
+        },
+        "morfitt|cls|1.0": {
+            "macro_f1": 0.6511213629090036,
+            "weighted_f1": 0.6843355962152551
+        },
+        "e3c|ner-temporal|1.0": {
+            "overall_f1": 0.8182371410756513,
+            "overall_accuracy": 0.9208036799166811
+        },
+        "e3c|ner-clinical|1.0": {
+            "overall_f1": 0.5271158318814995,
+            "overall_accuracy": 0.942622808238241
+        },
+        "clister|regr|1.0": {
+            "edrm": 0.6549015045166016,
+            "spearman_correlation_coef": 0.5621094878559783
+        },
+        "deft2019|ner|1.0": {
+            "overall_f1": 0.0,
+            "overall_accuracy": 0.9322378238435124
+        },
+        "frenchmedmcqa|cls|1.0": {
+            "macro_f1": 0.32741529532627545,
+            "weighted_f1": 0.6485786356529794
+        },
+        "frenchmedmcqa|mcqa|1.0": {
+            "hamming_score": 0.25225080385852106,
+            "exact_match": 0.03536977491961415
+        },
+        "deft2021|ner|1.0": {
+            "overall_f1": 0.5939081551469628,
+            "overall_accuracy": 0.8330499137765855
+        },
+        "deft2021|cls|1.0": {
+            "macro_f1": 0.14703270665326237,
+            "weighted_f1": 0.34457249189403805
+        },
+        "essai|ner-spec|1.0": {
+            "overall_f1": 0.5792584108684572,
+            "overall_accuracy": 0.9855706129413309
+        },
+        "essai|pos|1.0": {
+            "overall_f1": 0.9837149232744391,
+            "overall_accuracy": 0.9837149232744391
+        },
+        "essai|cls|1.0": {
+            "macro_f1": 0.9000066879484759,
+            "weighted_f1": 0.9736622943149313
+        },
+        "essai|ner-neg|1.0": {
+            "overall_f1": 0.8220124965697732,
+            "overall_accuracy": 0.9912499235801187
+        },
+        "quaero|ner-medline|1.0": {
+            "overall_f1": 0.5784704838669827,
+            "overall_accuracy": 0.8447934872596818
+        },
+        "quaero|ner-emea|1.0": {
+            "overall_f1": 0.6209724377027487,
+            "overall_accuracy": 0.9086530476665005
+        },
+        "mantragsc|ner-fr_patents|1.0": {
+            "overall_f1": 0.5694568875611724,
+            "overall_accuracy": 0.9083820662768031
+        },
+        "mantragsc|ner-fr_emea|1.0": {
+            "overall_f1": 0.6933583959899748,
+            "overall_accuracy": 0.9045346062052506
+        },
+        "mantragsc|ner-fr_medline|1.0": {
+            "overall_f1": 0.44302441630789297,
+            "overall_accuracy": 0.7525
+        },
+        "diamed|cls|1.0": {
+            "macro_f1": 0.30243063307592777,
+            "weighted_f1": 0.49795485842237264
+        }
+    }
+}

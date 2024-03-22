@@ -1,0 +1,510 @@
+###cas|pos|1.0###
+SP-Wiki+M 	---	 SP-CC100 	---	 p-value :  0.0349 	---	 True
+SP-Wiki+M 	---	 SP-Wiki 	---	 p-value :  0.1924 	---	 False
+SP-Wiki+M 	---	 BPE-NACHOS 	---	 p-value :  0.0 	---	 Very True
+SP-Wiki+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0248 	---	 True
+SP-Wiki+M 	---	 SP-NACHOS 	---	 p-value :  0.0003 	---	 Very True
+SP-Wiki+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0308 	---	 True
+SP-Wiki+M 	---	 SP-PubMed 	---	 p-value :  0.0005 	---	 Very True
+SP-Wiki+M 	---	 BPE-CC100+M 	---	 p-value :  0.1048 	---	 False
+SP-Wiki+M 	---	 SP-NACHOS+M 	---	 p-value :  0.0021 	---	 Very True
+SP-Wiki+M 	---	 BPE-Wiki 	---	 p-value :  0.568 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed 	---	 p-value :  0.0319 	---	 True
+SP-Wiki+M 	---	 SP-CC100+M 	---	 p-value :  0.0544 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0009 	---	 Very True
+SP-Wiki+M 	---	 SP-PubMed+M 	---	 p-value :  0.0002 	---	 Very True
+SP-Wiki+M 	---	 BPE-CC100 	---	 p-value :  0.0 	---	 Very True
+
+
+
+###cas|ner-neg|1.0###
+BPE-NACHOS 	---	 SP-CC100 	---	 p-value :  0.2193 	---	 False
+BPE-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.3106 	---	 False
+BPE-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.0475 	---	 True
+BPE-NACHOS 	---	 SP-NACHOS 	---	 p-value :  0.3968 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.3898 	---	 False
+BPE-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0271 	---	 True
+BPE-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0207 	---	 True
+BPE-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.1761 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.068 	---	 False
+BPE-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.008 	---	 Very True
+BPE-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0231 	---	 True
+BPE-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0153 	---	 True
+BPE-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.009 	---	 Very True
+BPE-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.9937 	---	 False
+BPE-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.0738 	---	 False
+
+
+
+###cas|cls|1.0###
+SP-CC100 	---	 SP-Wiki 	---	 p-value :  0.0261 	---	 True
+SP-CC100 	---	 BPE-NACHOS 	---	 p-value :  0.0195 	---	 True
+SP-CC100 	---	 BPE-NACHOS+M 	---	 p-value :  0.0508 	---	 False
+SP-CC100 	---	 SP-NACHOS 	---	 p-value :  0.3413 	---	 False
+SP-CC100 	---	 BPE-Wiki+M 	---	 p-value :  0.2575 	---	 False
+SP-CC100 	---	 SP-PubMed 	---	 p-value :  0.0036 	---	 Very True
+SP-CC100 	---	 BPE-CC100+M 	---	 p-value :  0.0551 	---	 False
+SP-CC100 	---	 SP-NACHOS+M 	---	 p-value :  0.2526 	---	 False
+SP-CC100 	---	 BPE-Wiki 	---	 p-value :  0.2899 	---	 False
+SP-CC100 	---	 BPE-PubMed 	---	 p-value :  0.1685 	---	 False
+SP-CC100 	---	 SP-CC100+M 	---	 p-value :  0.4369 	---	 False
+SP-CC100 	---	 BPE-PubMed+M 	---	 p-value :  0.0138 	---	 True
+SP-CC100 	---	 SP-PubMed+M 	---	 p-value :  0.0013 	---	 Very True
+SP-CC100 	---	 SP-Wiki+M 	---	 p-value :  0.0965 	---	 False
+SP-CC100 	---	 BPE-CC100 	---	 p-value :  0.864 	---	 False
+
+
+
+###cas|ner-spec|1.0###
+SP-NACHOS 	---	 SP-CC100 	---	 p-value :  0.2499 	---	 False
+SP-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.2084 	---	 False
+SP-NACHOS 	---	 BPE-NACHOS 	---	 p-value :  0.0464 	---	 True
+SP-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.1377 	---	 False
+SP-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.6574 	---	 False
+SP-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0222 	---	 True
+SP-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0349 	---	 True
+SP-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.0309 	---	 True
+SP-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.5199 	---	 False
+SP-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.6804 	---	 False
+SP-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.9163 	---	 False
+SP-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.1016 	---	 False
+SP-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.496 	---	 False
+SP-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.2621 	---	 False
+SP-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.5672 	---	 False
+
+
+
+###essai|pos|1.0###
+SP-Wiki 	---	 SP-CC100 	---	 p-value :  0.0222 	---	 True
+SP-Wiki 	---	 BPE-NACHOS 	---	 p-value :  0.6753 	---	 False
+SP-Wiki 	---	 BPE-NACHOS+M 	---	 p-value :  0.0 	---	 Very True
+SP-Wiki 	---	 SP-NACHOS 	---	 p-value :  0.0173 	---	 True
+SP-Wiki 	---	 BPE-Wiki+M 	---	 p-value :  0.0028 	---	 Very True
+SP-Wiki 	---	 SP-PubMed 	---	 p-value :  0.0016 	---	 Very True
+SP-Wiki 	---	 BPE-CC100+M 	---	 p-value :  0.0179 	---	 True
+SP-Wiki 	---	 SP-NACHOS+M 	---	 p-value :  0.0005 	---	 Very True
+SP-Wiki 	---	 BPE-Wiki 	---	 p-value :  0.0299 	---	 True
+SP-Wiki 	---	 BPE-PubMed 	---	 p-value :  0.0052 	---	 Very True
+SP-Wiki 	---	 SP-CC100+M 	---	 p-value :  0.0007 	---	 Very True
+SP-Wiki 	---	 BPE-PubMed+M 	---	 p-value :  0.0025 	---	 Very True
+SP-Wiki 	---	 SP-PubMed+M 	---	 p-value :  0.0002 	---	 Very True
+SP-Wiki 	---	 SP-Wiki+M 	---	 p-value :  0.068 	---	 False
+SP-Wiki 	---	 BPE-CC100 	---	 p-value :  0.2965 	---	 False
+
+
+
+###essai|cls|1.0###
+SP-PubMed 	---	 SP-CC100 	---	 p-value :  0.9623 	---	 False
+SP-PubMed 	---	 SP-Wiki 	---	 p-value :  0.0155 	---	 True
+SP-PubMed 	---	 BPE-NACHOS 	---	 p-value :  0.2868 	---	 False
+SP-PubMed 	---	 BPE-NACHOS+M 	---	 p-value :  0.0245 	---	 True
+SP-PubMed 	---	 SP-NACHOS 	---	 p-value :  0.1059 	---	 False
+SP-PubMed 	---	 BPE-Wiki+M 	---	 p-value :  0.0132 	---	 True
+SP-PubMed 	---	 BPE-CC100+M 	---	 p-value :  0.1434 	---	 False
+SP-PubMed 	---	 SP-NACHOS+M 	---	 p-value :  0.2761 	---	 False
+SP-PubMed 	---	 BPE-Wiki 	---	 p-value :  0.5313 	---	 False
+SP-PubMed 	---	 BPE-PubMed 	---	 p-value :  0.8028 	---	 False
+SP-PubMed 	---	 SP-CC100+M 	---	 p-value :  0.1701 	---	 False
+SP-PubMed 	---	 BPE-PubMed+M 	---	 p-value :  0.0947 	---	 False
+SP-PubMed 	---	 SP-PubMed+M 	---	 p-value :  0.0539 	---	 False
+SP-PubMed 	---	 SP-Wiki+M 	---	 p-value :  0.7965 	---	 False
+SP-PubMed 	---	 BPE-CC100 	---	 p-value :  0.4368 	---	 False
+
+
+
+###essai|ner-neg|1.0###
+BPE-Wiki+M 	---	 SP-CC100 	---	 p-value :  0.1748 	---	 False
+BPE-Wiki+M 	---	 SP-Wiki 	---	 p-value :  0.997 	---	 False
+BPE-Wiki+M 	---	 BPE-NACHOS 	---	 p-value :  0.7849 	---	 False
+BPE-Wiki+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0457 	---	 True
+BPE-Wiki+M 	---	 SP-NACHOS 	---	 p-value :  0.2898 	---	 False
+BPE-Wiki+M 	---	 SP-PubMed 	---	 p-value :  0.0016 	---	 Very True
+BPE-Wiki+M 	---	 BPE-CC100+M 	---	 p-value :  0.148 	---	 False
+BPE-Wiki+M 	---	 SP-NACHOS+M 	---	 p-value :  0.7076 	---	 False
+BPE-Wiki+M 	---	 BPE-Wiki 	---	 p-value :  0.1067 	---	 False
+BPE-Wiki+M 	---	 BPE-PubMed 	---	 p-value :  0.0047 	---	 Very True
+BPE-Wiki+M 	---	 SP-CC100+M 	---	 p-value :  0.0463 	---	 True
+BPE-Wiki+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0787 	---	 False
+BPE-Wiki+M 	---	 SP-PubMed+M 	---	 p-value :  0.2696 	---	 False
+BPE-Wiki+M 	---	 SP-Wiki+M 	---	 p-value :  0.205 	---	 False
+BPE-Wiki+M 	---	 BPE-CC100 	---	 p-value :  0.3833 	---	 False
+
+
+
+###essai|ner-spec|1.0###
+SP-Wiki 	---	 SP-CC100 	---	 p-value :  0.0971 	---	 False
+SP-Wiki 	---	 BPE-NACHOS 	---	 p-value :  0.003 	---	 Very True
+SP-Wiki 	---	 BPE-NACHOS+M 	---	 p-value :  0.0292 	---	 True
+SP-Wiki 	---	 SP-NACHOS 	---	 p-value :  0.6282 	---	 False
+SP-Wiki 	---	 BPE-Wiki+M 	---	 p-value :  0.8518 	---	 False
+SP-Wiki 	---	 SP-PubMed 	---	 p-value :  0.0053 	---	 Very True
+SP-Wiki 	---	 BPE-CC100+M 	---	 p-value :  0.0008 	---	 Very True
+SP-Wiki 	---	 SP-NACHOS+M 	---	 p-value :  0.0023 	---	 Very True
+SP-Wiki 	---	 BPE-Wiki 	---	 p-value :  0.2003 	---	 False
+SP-Wiki 	---	 BPE-PubMed 	---	 p-value :  0.0002 	---	 Very True
+SP-Wiki 	---	 SP-CC100+M 	---	 p-value :  0.0222 	---	 True
+SP-Wiki 	---	 BPE-PubMed+M 	---	 p-value :  0.0007 	---	 Very True
+SP-Wiki 	---	 SP-PubMed+M 	---	 p-value :  0.0006 	---	 Very True
+SP-Wiki 	---	 SP-Wiki+M 	---	 p-value :  0.1074 	---	 False
+SP-Wiki 	---	 BPE-CC100 	---	 p-value :  0.0044 	---	 Very True
+
+
+
+###quaero|ner-emea|1.0###
+BPE-NACHOS 	---	 SP-CC100 	---	 p-value :  0.0258 	---	 True
+BPE-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.0437 	---	 True
+BPE-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.4277 	---	 False
+BPE-NACHOS 	---	 SP-NACHOS 	---	 p-value :  0.9406 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.0395 	---	 True
+BPE-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0178 	---	 True
+BPE-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0093 	---	 Very True
+BPE-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.3052 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.0433 	---	 True
+BPE-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.3117 	---	 False
+BPE-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0418 	---	 True
+BPE-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0081 	---	 Very True
+BPE-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0774 	---	 False
+BPE-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.1185 	---	 False
+BPE-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.0097 	---	 Very True
+
+
+
+###quaero|ner-medline|1.0###
+SP-NACHOS 	---	 SP-CC100 	---	 p-value :  0.0317 	---	 True
+SP-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.1482 	---	 False
+SP-NACHOS 	---	 BPE-NACHOS 	---	 p-value :  0.3852 	---	 False
+SP-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.0387 	---	 True
+SP-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.0113 	---	 True
+SP-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0002 	---	 Very True
+SP-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0003 	---	 Very True
+SP-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.1277 	---	 False
+SP-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.0601 	---	 False
+SP-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.0002 	---	 Very True
+SP-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0036 	---	 Very True
+SP-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0003 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0 	---	 Very True
+SP-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.0158 	---	 True
+SP-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.4683 	---	 False
+
+
+
+###e3c|ner-clinical|1.0###
+SP-NACHOS+M 	---	 SP-CC100 	---	 p-value :  0.0566 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki 	---	 p-value :  0.0622 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS 	---	 p-value :  0.7829 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0315 	---	 True
+SP-NACHOS+M 	---	 SP-NACHOS 	---	 p-value :  0.7055 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0002 	---	 Very True
+SP-NACHOS+M 	---	 SP-PubMed 	---	 p-value :  0.0664 	---	 False
+SP-NACHOS+M 	---	 BPE-CC100+M 	---	 p-value :  0.0148 	---	 True
+SP-NACHOS+M 	---	 BPE-Wiki 	---	 p-value :  0.0069 	---	 Very True
+SP-NACHOS+M 	---	 BPE-PubMed 	---	 p-value :  0.0064 	---	 Very True
+SP-NACHOS+M 	---	 SP-CC100+M 	---	 p-value :  0.0 	---	 Very True
+SP-NACHOS+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0005 	---	 Very True
+SP-NACHOS+M 	---	 SP-PubMed+M 	---	 p-value :  0.0001 	---	 Very True
+SP-NACHOS+M 	---	 SP-Wiki+M 	---	 p-value :  0.0378 	---	 True
+SP-NACHOS+M 	---	 BPE-CC100 	---	 p-value :  0.0037 	---	 Very True
+
+
+
+###e3c|ner-temporal|1.0###
+SP-Wiki+M 	---	 SP-CC100 	---	 p-value :  0.1204 	---	 False
+SP-Wiki+M 	---	 SP-Wiki 	---	 p-value :  0.0291 	---	 True
+SP-Wiki+M 	---	 BPE-NACHOS 	---	 p-value :  0.4394 	---	 False
+SP-Wiki+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.1818 	---	 False
+SP-Wiki+M 	---	 SP-NACHOS 	---	 p-value :  0.5381 	---	 False
+SP-Wiki+M 	---	 BPE-Wiki+M 	---	 p-value :  0.1049 	---	 False
+SP-Wiki+M 	---	 SP-PubMed 	---	 p-value :  0.0069 	---	 Very True
+SP-Wiki+M 	---	 BPE-CC100+M 	---	 p-value :  0.1659 	---	 False
+SP-Wiki+M 	---	 SP-NACHOS+M 	---	 p-value :  0.0509 	---	 False
+SP-Wiki+M 	---	 BPE-Wiki 	---	 p-value :  0.6642 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed 	---	 p-value :  0.0218 	---	 True
+SP-Wiki+M 	---	 SP-CC100+M 	---	 p-value :  0.5033 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0115 	---	 True
+SP-Wiki+M 	---	 SP-PubMed+M 	---	 p-value :  0.0123 	---	 True
+SP-Wiki+M 	---	 BPE-CC100 	---	 p-value :  0.3875 	---	 False
+
+
+
+###morfitt|cls|1.0###
+SP-NACHOS 	---	 SP-CC100 	---	 p-value :  0.2349 	---	 False
+SP-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.0064 	---	 Very True
+SP-NACHOS 	---	 BPE-NACHOS 	---	 p-value :  0.0072 	---	 Very True
+SP-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.0129 	---	 True
+SP-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.0002 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0001 	---	 Very True
+SP-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0027 	---	 Very True
+SP-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.014 	---	 True
+SP-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.1315 	---	 False
+SP-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.0002 	---	 Very True
+SP-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0121 	---	 True
+SP-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0009 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0 	---	 Very True
+SP-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.0186 	---	 True
+SP-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.0057 	---	 Very True
+
+
+
+###frenchmedmcqa|mcqa|1.0###
+BPE-PubMed 	---	 SP-CC100 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-Wiki 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-NACHOS 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-NACHOS+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-NACHOS 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-Wiki+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-PubMed 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-CC100+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-NACHOS+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-Wiki 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-CC100+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-PubMed+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-PubMed+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 SP-Wiki+M 	---	 p-value :  0.0 	---	 Very True
+BPE-PubMed 	---	 BPE-CC100 	---	 p-value :  0.0 	---	 Very True
+
+
+
+###frenchmedmcqa|cls|1.0###
+SP-CC100+M 	---	 SP-CC100 	---	 p-value :  0.6419 	---	 False
+SP-CC100+M 	---	 SP-Wiki 	---	 p-value :  0.3176 	---	 False
+SP-CC100+M 	---	 BPE-NACHOS 	---	 p-value :  0.5381 	---	 False
+SP-CC100+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.3706 	---	 False
+SP-CC100+M 	---	 SP-NACHOS 	---	 p-value :  0.6818 	---	 False
+SP-CC100+M 	---	 BPE-Wiki+M 	---	 p-value :  0.4145 	---	 False
+SP-CC100+M 	---	 SP-PubMed 	---	 p-value :  0.2005 	---	 False
+SP-CC100+M 	---	 BPE-CC100+M 	---	 p-value :  0.4837 	---	 False
+SP-CC100+M 	---	 SP-NACHOS+M 	---	 p-value :  0.2768 	---	 False
+SP-CC100+M 	---	 BPE-Wiki 	---	 p-value :  0.3668 	---	 False
+SP-CC100+M 	---	 BPE-PubMed 	---	 p-value :  0.4284 	---	 False
+SP-CC100+M 	---	 BPE-PubMed+M 	---	 p-value :  0.4669 	---	 False
+SP-CC100+M 	---	 SP-PubMed+M 	---	 p-value :  0.4136 	---	 False
+SP-CC100+M 	---	 SP-Wiki+M 	---	 p-value :  0.4035 	---	 False
+SP-CC100+M 	---	 BPE-CC100 	---	 p-value :  0.3418 	---	 False
+
+
+
+###mantragsc|ner-fr_emea|1.0###
+BPE-CC100 	---	 SP-CC100 	---	 p-value :  0.0468 	---	 True
+BPE-CC100 	---	 SP-Wiki 	---	 p-value :  0.0449 	---	 True
+BPE-CC100 	---	 BPE-NACHOS 	---	 p-value :  0.1887 	---	 False
+BPE-CC100 	---	 BPE-NACHOS+M 	---	 p-value :  0.0026 	---	 Very True
+BPE-CC100 	---	 SP-NACHOS 	---	 p-value :  0.5058 	---	 False
+BPE-CC100 	---	 BPE-Wiki+M 	---	 p-value :  0.1841 	---	 False
+BPE-CC100 	---	 SP-PubMed 	---	 p-value :  0.0005 	---	 Very True
+BPE-CC100 	---	 BPE-CC100+M 	---	 p-value :  0.0681 	---	 False
+BPE-CC100 	---	 SP-NACHOS+M 	---	 p-value :  0.1753 	---	 False
+BPE-CC100 	---	 BPE-Wiki 	---	 p-value :  0.021 	---	 True
+BPE-CC100 	---	 BPE-PubMed 	---	 p-value :  0.0155 	---	 True
+BPE-CC100 	---	 SP-CC100+M 	---	 p-value :  0.7295 	---	 False
+BPE-CC100 	---	 BPE-PubMed+M 	---	 p-value :  0.2178 	---	 False
+BPE-CC100 	---	 SP-PubMed+M 	---	 p-value :  0.0521 	---	 False
+BPE-CC100 	---	 SP-Wiki+M 	---	 p-value :  0.0232 	---	 True
+
+
+
+###mantragsc|ner-fr_medline|1.0###
+SP-CC100 	---	 SP-Wiki 	---	 p-value :  0.7518 	---	 False
+SP-CC100 	---	 BPE-NACHOS 	---	 p-value :  0.0146 	---	 True
+SP-CC100 	---	 BPE-NACHOS+M 	---	 p-value :  0.0319 	---	 True
+SP-CC100 	---	 SP-NACHOS 	---	 p-value :  0.2026 	---	 False
+SP-CC100 	---	 BPE-Wiki+M 	---	 p-value :  0.02 	---	 True
+SP-CC100 	---	 SP-PubMed 	---	 p-value :  0.0007 	---	 Very True
+SP-CC100 	---	 BPE-CC100+M 	---	 p-value :  0.0787 	---	 False
+SP-CC100 	---	 SP-NACHOS+M 	---	 p-value :  0.3787 	---	 False
+SP-CC100 	---	 BPE-Wiki 	---	 p-value :  0.1903 	---	 False
+SP-CC100 	---	 BPE-PubMed 	---	 p-value :  0.053 	---	 False
+SP-CC100 	---	 SP-CC100+M 	---	 p-value :  0.1123 	---	 False
+SP-CC100 	---	 BPE-PubMed+M 	---	 p-value :  0.0052 	---	 Very True
+SP-CC100 	---	 SP-PubMed+M 	---	 p-value :  0.1428 	---	 False
+SP-CC100 	---	 SP-Wiki+M 	---	 p-value :  0.018 	---	 True
+SP-CC100 	---	 BPE-CC100 	---	 p-value :  0.1364 	---	 False
+
+
+
+###mantragsc|ner-fr_patents|1.0###
+BPE-Wiki+M 	---	 SP-CC100 	---	 p-value :  0.0128 	---	 True
+BPE-Wiki+M 	---	 SP-Wiki 	---	 p-value :  0.0057 	---	 Very True
+BPE-Wiki+M 	---	 BPE-NACHOS 	---	 p-value :  0.0031 	---	 Very True
+BPE-Wiki+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0808 	---	 False
+BPE-Wiki+M 	---	 SP-NACHOS 	---	 p-value :  0.0334 	---	 True
+BPE-Wiki+M 	---	 SP-PubMed 	---	 p-value :  0.0003 	---	 Very True
+BPE-Wiki+M 	---	 BPE-CC100+M 	---	 p-value :  0.0431 	---	 True
+BPE-Wiki+M 	---	 SP-NACHOS+M 	---	 p-value :  0.049 	---	 True
+BPE-Wiki+M 	---	 BPE-Wiki 	---	 p-value :  0.0636 	---	 False
+BPE-Wiki+M 	---	 BPE-PubMed 	---	 p-value :  0.6277 	---	 False
+BPE-Wiki+M 	---	 SP-CC100+M 	---	 p-value :  0.001 	---	 Very True
+BPE-Wiki+M 	---	 BPE-PubMed+M 	---	 p-value :  0.135 	---	 False
+BPE-Wiki+M 	---	 SP-PubMed+M 	---	 p-value :  0.1267 	---	 False
+BPE-Wiki+M 	---	 SP-Wiki+M 	---	 p-value :  0.0891 	---	 False
+BPE-Wiki+M 	---	 BPE-CC100 	---	 p-value :  0.6153 	---	 False
+
+
+
+###clister|regr|1.0###
+BPE-CC100 	---	 SP-CC100 	---	 p-value :  0.1263 	---	 False
+BPE-CC100 	---	 SP-Wiki 	---	 p-value :  0.0141 	---	 True
+BPE-CC100 	---	 BPE-NACHOS 	---	 p-value :  0.0411 	---	 True
+BPE-CC100 	---	 BPE-NACHOS+M 	---	 p-value :  0.016 	---	 True
+BPE-CC100 	---	 SP-NACHOS 	---	 p-value :  0.0574 	---	 False
+BPE-CC100 	---	 BPE-Wiki+M 	---	 p-value :  0.0486 	---	 True
+BPE-CC100 	---	 SP-PubMed 	---	 p-value :  0.0008 	---	 Very True
+BPE-CC100 	---	 BPE-CC100+M 	---	 p-value :  0.0565 	---	 False
+BPE-CC100 	---	 SP-NACHOS+M 	---	 p-value :  0.0314 	---	 True
+BPE-CC100 	---	 BPE-Wiki 	---	 p-value :  0.0143 	---	 True
+BPE-CC100 	---	 BPE-PubMed 	---	 p-value :  0.1242 	---	 False
+BPE-CC100 	---	 SP-CC100+M 	---	 p-value :  0.0055 	---	 Very True
+BPE-CC100 	---	 BPE-PubMed+M 	---	 p-value :  0.0309 	---	 True
+BPE-CC100 	---	 SP-PubMed+M 	---	 p-value :  0.0243 	---	 True
+BPE-CC100 	---	 SP-Wiki+M 	---	 p-value :  0.1069 	---	 False
+
+
+
+###deft2020|regr|1.0###
+SP-NACHOS+M 	---	 SP-CC100 	---	 p-value :  0.0327 	---	 True
+SP-NACHOS+M 	---	 SP-Wiki 	---	 p-value :  0.089 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS 	---	 p-value :  0.0642 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0036 	---	 Very True
+SP-NACHOS+M 	---	 SP-NACHOS 	---	 p-value :  0.0771 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0215 	---	 True
+SP-NACHOS+M 	---	 SP-PubMed 	---	 p-value :  0.0 	---	 Very True
+SP-NACHOS+M 	---	 BPE-CC100+M 	---	 p-value :  0.1234 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki 	---	 p-value :  0.1377 	---	 False
+SP-NACHOS+M 	---	 BPE-PubMed 	---	 p-value :  0.0242 	---	 True
+SP-NACHOS+M 	---	 SP-CC100+M 	---	 p-value :  0.0088 	---	 Very True
+SP-NACHOS+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0894 	---	 False
+SP-NACHOS+M 	---	 SP-PubMed+M 	---	 p-value :  0.2964 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki+M 	---	 p-value :  0.0293 	---	 True
+SP-NACHOS+M 	---	 BPE-CC100 	---	 p-value :  0.0098 	---	 Very True
+
+
+
+###deft2020|cls|1.0###
+BPE-NACHOS 	---	 SP-CC100 	---	 p-value :  0.0221 	---	 True
+BPE-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.0111 	---	 True
+BPE-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.3393 	---	 False
+BPE-NACHOS 	---	 SP-NACHOS 	---	 p-value :  0.2194 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.4272 	---	 False
+BPE-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0584 	---	 False
+BPE-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0509 	---	 False
+BPE-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.5048 	---	 False
+BPE-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.1903 	---	 False
+BPE-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.0048 	---	 Very True
+BPE-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.006 	---	 Very True
+BPE-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0076 	---	 Very True
+BPE-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0074 	---	 Very True
+BPE-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.0829 	---	 False
+BPE-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.1478 	---	 False
+
+
+
+###deft2021|cls|1.0###
+SP-NACHOS+M 	---	 SP-CC100 	---	 p-value :  0.6436 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki 	---	 p-value :  0.0107 	---	 True
+SP-NACHOS+M 	---	 BPE-NACHOS 	---	 p-value :  0.1703 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.2418 	---	 False
+SP-NACHOS+M 	---	 SP-NACHOS 	---	 p-value :  0.742 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki+M 	---	 p-value :  0.1008 	---	 False
+SP-NACHOS+M 	---	 SP-PubMed 	---	 p-value :  0.7646 	---	 False
+SP-NACHOS+M 	---	 BPE-CC100+M 	---	 p-value :  0.563 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki 	---	 p-value :  0.6735 	---	 False
+SP-NACHOS+M 	---	 BPE-PubMed 	---	 p-value :  0.2365 	---	 False
+SP-NACHOS+M 	---	 SP-CC100+M 	---	 p-value :  0.4932 	---	 False
+SP-NACHOS+M 	---	 BPE-PubMed+M 	---	 p-value :  0.5011 	---	 False
+SP-NACHOS+M 	---	 SP-PubMed+M 	---	 p-value :  0.9972 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki+M 	---	 p-value :  0.6095 	---	 False
+SP-NACHOS+M 	---	 BPE-CC100 	---	 p-value :  0.8789 	---	 False
+
+
+
+###deft2021|ner|1.0###
+SP-NACHOS 	---	 SP-CC100 	---	 p-value :  0.0007 	---	 Very True
+SP-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.0012 	---	 Very True
+SP-NACHOS 	---	 BPE-NACHOS 	---	 p-value :  0.0644 	---	 False
+SP-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.0062 	---	 Very True
+SP-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.0095 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0047 	---	 Very True
+SP-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.001 	---	 Very True
+SP-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.0999 	---	 False
+SP-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.0087 	---	 Very True
+SP-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.0001 	---	 Very True
+SP-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0006 	---	 Very True
+SP-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0001 	---	 Very True
+SP-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.0544 	---	 False
+SP-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.0017 	---	 Very True
+
+
+
+###diamed|cls|1.0###
+SP-NACHOS 	---	 SP-CC100 	---	 p-value :  0.0768 	---	 False
+SP-NACHOS 	---	 SP-Wiki 	---	 p-value :  0.0113 	---	 True
+SP-NACHOS 	---	 BPE-NACHOS 	---	 p-value :  0.5781 	---	 False
+SP-NACHOS 	---	 BPE-NACHOS+M 	---	 p-value :  0.0457 	---	 True
+SP-NACHOS 	---	 BPE-Wiki+M 	---	 p-value :  0.0551 	---	 False
+SP-NACHOS 	---	 SP-PubMed 	---	 p-value :  0.0018 	---	 Very True
+SP-NACHOS 	---	 BPE-CC100+M 	---	 p-value :  0.0393 	---	 True
+SP-NACHOS 	---	 SP-NACHOS+M 	---	 p-value :  0.3132 	---	 False
+SP-NACHOS 	---	 BPE-Wiki 	---	 p-value :  0.0163 	---	 True
+SP-NACHOS 	---	 BPE-PubMed 	---	 p-value :  0.0006 	---	 Very True
+SP-NACHOS 	---	 SP-CC100+M 	---	 p-value :  0.0069 	---	 Very True
+SP-NACHOS 	---	 BPE-PubMed+M 	---	 p-value :  0.0073 	---	 Very True
+SP-NACHOS 	---	 SP-PubMed+M 	---	 p-value :  0.0021 	---	 Very True
+SP-NACHOS 	---	 SP-Wiki+M 	---	 p-value :  0.0449 	---	 True
+SP-NACHOS 	---	 BPE-CC100 	---	 p-value :  0.047 	---	 True
+
+
+
+###pxcorpus|ner|1.0###
+SP-NACHOS+M 	---	 SP-CC100 	---	 p-value :  0.5824 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki 	---	 p-value :  0.0667 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS 	---	 p-value :  0.0621 	---	 False
+SP-NACHOS+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.3517 	---	 False
+SP-NACHOS+M 	---	 SP-NACHOS 	---	 p-value :  0.2935 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0604 	---	 False
+SP-NACHOS+M 	---	 SP-PubMed 	---	 p-value :  0.1838 	---	 False
+SP-NACHOS+M 	---	 BPE-CC100+M 	---	 p-value :  0.1178 	---	 False
+SP-NACHOS+M 	---	 BPE-Wiki 	---	 p-value :  0.438 	---	 False
+SP-NACHOS+M 	---	 BPE-PubMed 	---	 p-value :  0.1317 	---	 False
+SP-NACHOS+M 	---	 SP-CC100+M 	---	 p-value :  0.1412 	---	 False
+SP-NACHOS+M 	---	 BPE-PubMed+M 	---	 p-value :  0.1717 	---	 False
+SP-NACHOS+M 	---	 SP-PubMed+M 	---	 p-value :  0.362 	---	 False
+SP-NACHOS+M 	---	 SP-Wiki+M 	---	 p-value :  0.2277 	---	 False
+SP-NACHOS+M 	---	 BPE-CC100 	---	 p-value :  0.3097 	---	 False
+
+
+
+###pxcorpus|cls|1.0###
+SP-Wiki+M 	---	 SP-CC100 	---	 p-value :  0.1051 	---	 False
+SP-Wiki+M 	---	 SP-Wiki 	---	 p-value :  0.5839 	---	 False
+SP-Wiki+M 	---	 BPE-NACHOS 	---	 p-value :  0.8136 	---	 False
+SP-Wiki+M 	---	 BPE-NACHOS+M 	---	 p-value :  0.0269 	---	 True
+SP-Wiki+M 	---	 SP-NACHOS 	---	 p-value :  0.9422 	---	 False
+SP-Wiki+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0086 	---	 Very True
+SP-Wiki+M 	---	 SP-PubMed 	---	 p-value :  0.5604 	---	 False
+SP-Wiki+M 	---	 BPE-CC100+M 	---	 p-value :  0.0266 	---	 True
+SP-Wiki+M 	---	 SP-NACHOS+M 	---	 p-value :  0.1668 	---	 False
+SP-Wiki+M 	---	 BPE-Wiki 	---	 p-value :  0.1437 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed 	---	 p-value :  0.0443 	---	 True
+SP-Wiki+M 	---	 SP-CC100+M 	---	 p-value :  0.4314 	---	 False
+SP-Wiki+M 	---	 BPE-PubMed+M 	---	 p-value :  0.3293 	---	 False
+SP-Wiki+M 	---	 SP-PubMed+M 	---	 p-value :  0.2512 	---	 False
+SP-Wiki+M 	---	 BPE-CC100 	---	 p-value :  0.1062 	---	 False
+
+
+
+###deft2019|ner|1.0###
+BPE-NACHOS+M 	---	 SP-CC100 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-Wiki 	---	 p-value :  0.05 	---	 True
+BPE-NACHOS+M 	---	 BPE-NACHOS 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-NACHOS 	---	 p-value :  0.2185 	---	 False
+BPE-NACHOS+M 	---	 BPE-Wiki+M 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-PubMed 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 BPE-CC100+M 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-NACHOS+M 	---	 p-value :  0.5696 	---	 False
+BPE-NACHOS+M 	---	 BPE-Wiki 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 BPE-PubMed 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-CC100+M 	---	 p-value :  0.2512 	---	 False
+BPE-NACHOS+M 	---	 BPE-PubMed+M 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 SP-PubMed+M 	---	 p-value :  0.1762 	---	 False
+BPE-NACHOS+M 	---	 SP-Wiki+M 	---	 p-value :  0.0245 	---	 True
+BPE-NACHOS+M 	---	 BPE-CC100 	---	 p-value :  0.0245 	---	 True
